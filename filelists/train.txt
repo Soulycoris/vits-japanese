@@ -1,408 +1,408 @@
-sud/sud_vo_adv_card_mna_01_01-mna001|はぁ、はぁ、ま、間に合った～っ……！おはよ、はぁはぁ、はぁ、はぁ、
-sud/sud_vo_adv_card_mna_01_01-mna002|今日は油断して二度寝しちゃった～琴乃もお母さんも、起こしてくれないんだもん
-sud/sud_vo_adv_card_mna_01_01-mna003|まぁ、朝からのダッシュでいい運動にはなったけどね
-sud/sud_vo_adv_card_mna_01_01-mna004|何言ってるの、デビューしたばかりの新人アイドルが忙しいなんてありがたいことじゃん
-sud/sud_vo_adv_card_mna_01_01-mna005|もっと入れたいぐらいだよ本当はこうして授業に出る時間も惜しいくらい
-sud/sud_vo_adv_card_mna_01_01-mna006|分かってるよ、だから、頑張って両立してるんでしょ
-sud/sud_vo_adv_card_mna_01_01-mna007|私、成績は落ちてないもん……あんまり
-sud/sud_vo_adv_card_mna_01_01-mna008|そう思うなら、毎朝、車で迎えに来てくれればいいのに
-sud/sud_vo_adv_card_mna_01_01-mna009|取ればいいのに。もう取れるんでしょ？
-sud/sud_vo_adv_card_mna_01_01-mna010|君が車の運転出来たら便利だし一緒にいろんな所に行けて楽しいだろうな
-sud/sud_vo_adv_card_mna_01_01-mna011|え～？　そこは頑張ってよ。マネージャー
-sud/sud_vo_adv_card_mna_01_01-mna012|何それ。もしかしたら、いつか私のマネージャー辞めるつもり？
-sud/sud_vo_adv_card_mna_01_01-mna013|厳しい芸能界に、か弱い女の子を一人残して去っていくの？　酷いよ、君！
-sud/sud_vo_adv_card_mna_01_01-mna014|お願い、私を捨てないで！
-sud/sud_vo_adv_card_mna_01_01-mna015|君を引き留めるためなら手段は選ばないよ！
-sud/sud_vo_adv_card_mna_01_01-mna016|だって、君が辞めちゃいそうなこと言うから……
-sud/sud_vo_adv_card_mna_01_01-mna017|三枝さんに君を採用するよう私と遙子ちゃんで猛プッシュするから、大丈夫だよ！
-sud/sud_vo_adv_card_mna_01_01-mna018|あと、私はか弱いの！　もっと大事にしないと移籍しちゃうぞ
-sud/sud_vo_adv_card_mna_01_01-mna019|あ～あ、君の捕獲計画も立てないといけないのか～
-sud/sud_vo_adv_card_mna_01_01-mna020|もう、また仕事が増えちゃったよ……忘れないようメモしとこ
-sud/sud_vo_adv_card_mna_01_01-mna021|もちろん、君が私に初めてくれたプレゼントだもん。大事に使ってるよ
-sud/sud_vo_adv_card_mna_01_01-mna022|ピンクなのがいいよ。君が私のために選んでくれたんだなーって分かる
-sud/sud_vo_adv_card_mna_01_01-mna023|言わなくていいのに！知りたくなかったよ！　もう！
-sud/sud_vo_adv_card_mna_01_01-mna024|怒ってない！！
-sud/sud_vo_adv_card_mna_01_01-mna025|怒ってないし、分かってくれない君が悪いし
-sud/sud_vo_adv_card_mna_01_01-mna026|君の捕獲計画、その一強烈な弱みを握る……
-sud/sud_vo_adv_card_mna_01_02-mna001|はぁ、はぁ……うん、新曲の振り付けいい感じ……！
-sud/sud_vo_adv_card_mna_01_02-mna002|君もそう思わない？
-sud/sud_vo_adv_card_mna_01_02-mna003|素人じゃないよ、君は私のプロのアイドル、長瀬麻奈の専属マネージャーでしょ？
-sud/sud_vo_adv_card_mna_01_02-mna004|でも、この前君のこと褒めてたよ。なかなか使い勝手のいいヤツだって
-sud/sud_vo_adv_card_mna_01_02-mna005|もっと自信持ちなよ～。私がアイドルやっていけるのは君のおかげなんだよ
-sud/sud_vo_adv_card_mna_01_02-mna006|あーっ、本気にしてないなー！本当に感謝してるのに
-sud/sud_vo_adv_card_mna_01_02-mna007|そうだ！　感謝のしるしとして何かプレゼントしてあげようか？　何かほしいものある？
-sud/sud_vo_adv_card_mna_01_02-mna008|そーいう現実的なことじゃなくて！出席日数もほしいけど
-sud/sud_vo_adv_card_mna_01_02-mna009|分かった！　可愛い彼女だ！
-sud/sud_vo_adv_card_mna_01_02-mna010|う～ん、残念私は、みんなのアイドルだから無理なんだよね～
-sud/sud_vo_adv_card_mna_01_02-mna011|何それ、私はタイプじゃないってこと！？アッタマきた。問題発言だ！
-sud/sud_vo_adv_card_mna_01_02-mna012|それはそうだけど……やっぱり納得いかない！
-sud/sud_vo_adv_card_mna_01_02-mna013|んくっ、んくっ……あー！　レッスンの後の一杯は体に染みるよ～！
-sud/sud_vo_adv_card_mna_01_02-mna014|つかまえて、失礼な！こんなに若くてかわいいアイドルを
-sud/sud_vo_adv_card_mna_01_02-mna015|それに、これメロンソーダだし
-sud/sud_vo_adv_card_mna_01_02-mna016|疲れてると甘いモノがほしくなるんだよあ～、人工甘味料が染みる～
-sud/sud_vo_adv_card_mna_01_02-mna017|うん。あ、それ関係者用のチケット、余分にとれる？
-sud/sud_vo_adv_card_mna_01_02-mna018|うん、家でも話すことめったになくなったし冷戦状態かな……なんとか認めてもらいたいけど……
-sud/sud_vo_adv_card_mna_01_02-mna019|あっ、そうだ、君今度、琴乃に会わない？
-sud/sud_vo_adv_card_mna_01_02-mna020|とにかく会ってみてよ絶対損はしないから
-sud/sud_vo_adv_card_mna_01_02-mna021|もしかして、将来彼女に出来るかもしれないよ？
-sud/sud_vo_adv_card_mna_01_02-mna022|私に似て可愛いよ？ちょっと素直じゃないけど
-sud/sud_vo_adv_card_mna_01_02-mna023|私は素直に歌いたいだけなの！
-sud/sud_vo_adv_card_mna_01_02-mna024|まったくもう！　君は口が減らないんだから！
-sud/sud_vo_adv_card_mna_01_02-mna025|今度、話してみるから、琴乃がもしオッケーしたら会ってあげてね！
-sud/sud_vo_adv_card_mna_01_02-mna026|素直じゃないな～
-sud/sud_vo_adv_card_mna_01_02-mna027|あはは案外、似てるかもだね、私達
-sud/sud_vo_adv_card_mna_01_03-mna001|あーあー、やっぱりまたダメか……
-sud/sud_vo_adv_card_mna_01_03-mna002|今日はもしかしたらって思ってたんだけどな～……
-sud/sud_vo_adv_card_mna_01_03-mna003|聞いてよ、琴乃ったら酷いんだよ今日もライブ来てくれないの
-sud/sud_vo_adv_card_mna_01_03-mna004|今朝、私のマネージャーを紹介するからって言っておいたのに、「余計に嫌」って
-sud/sud_vo_adv_card_mna_01_03-mna005|お姉ちゃんを芸能界に誘った悪い人となんか絶対会いたくないってメッセ来てたんだよ～
-sud/sud_vo_adv_card_mna_01_03-mna006|そこは――まあ、その内に……ね？
-sud/sud_vo_adv_card_mna_01_03-mna007|だって、それ言ったら、私だけが琴乃に嫌われちゃうもん。そんなの嫌だよ！
-sud/sud_vo_adv_card_mna_01_03-mna008|アイドルとマネージャーは運命共同体でしょ？
-sud/sud_vo_adv_card_mna_01_03-mna009|ね？　ね？ね～？？
-sud/sud_vo_adv_card_mna_01_03-mna010|絶対聴かないって言い張ってる。私がテレビに映ったらすぐチャンネル変えちゃうって、お母さん言ってたし
-sud/sud_vo_adv_card_mna_01_03-mna011|可愛いんだから、いつかは分かってもらいたいでも、そんなところも含めて私は琴乃が
-sud/sud_vo_adv_card_mna_01_03-mna012|本当？　ありがとう！
-sud/sud_vo_adv_card_mna_01_03-mna013|あはは、そうだね
-sud/sud_vo_adv_card_mna_01_03-mna014|ねえ、もし、琴乃に会って好かれたら彼女にしちゃう？
-sud/sud_vo_adv_card_mna_01_03-mna015|う～ん……やっぱりダーメ！私は認めないよ！
-sud/sud_vo_adv_card_mna_01_03-mna016|あはは、冗談だよ。そろそろ行こう！私達の悪のステージに！
-sud/sud_vo_adv_card_mna_01_03-mna017|もう、酷いな君は……じゃあ歌ってくる。ちゃんと観ててね
-sud/sud_vo_adv_card_mna_01_03-mna018|うん……行ってきます！
-sud/sud_vo_adv_card_mna_01_03-mna019|こんばんは！新人アイドルの長瀬麻奈です
-sud/sud_vo_adv_card_mna_01_03-mna020|今日は私のライブに来てくれてありがとう！
-sud/sud_vo_adv_card_mna_01_03-mna021|ここに来てくれた人達はもちろん、事情があって来られなかった人達
-sud/sud_vo_adv_card_mna_01_03-mna022|そして、いつか来てほしい人にも届くように心を込めて歌います
-sud/sud_vo_adv_card_mna_01_03-mna023|聴いて下さい『First
-sud/sud_vo_adv_card_mna_01_03-mna024|みんな、声援ありがとね！次の曲は――
-sud/sud_vo_adv_card_mna_01_03-mna025|……これからも、よろしくね私だけのマネージャー……
-sud/sud_vo_adv_group_mna_01_01-mna001|お願いがあるの
-sud/sud_vo_adv_group_mna_01_01-mna002|あのね――
-sud/sud_vo_adv_group_mna_01_01-mna003|ねー、麻奈うーん、どうしよっか
-sud/sud_vo_adv_group_mna_01_01-mna004|ね。
-sud/sud_vo_adv_group_mna_01_01-mna005|君、アイドル嫌いなの？
-sud/sud_vo_adv_group_mna_01_01-mna006|どう違うの？
-sud/sud_vo_adv_group_mna_01_01-mna007|ふぅーん
-sud/sud_vo_adv_group_mna_01_01-mna008|あっ、うん……ばいばい。
-sud/sud_vo_adv_group_mna_01_01-mna009|――はぁ、カラオケもいいけど、やっぱり窮屈ここの方が思いっきり声も出るし、最高だな
-sud/sud_vo_adv_group_mna_01_01-mna010|……まあ、だーれも、聴いてないけどあははっ
-sud/sud_vo_adv_group_mna_01_01-mna011|あの、すみません、もしかして……
-sud/sud_vo_adv_group_mna_01_01-mna012|もしかして、不審者の方ですか？
-sud/sud_vo_adv_group_mna_01_01-mna013|怪しい人はみんなそう言いますよね
-sud/sud_vo_adv_group_mna_01_01-mna014|用事がないなら、私、帰りますけど
-sud/sud_vo_adv_group_mna_01_01-mna015|――え？
-sud/sud_vo_adv_group_mna_01_02-mna001|う～ん、行こっかな……でもなー。どうしよ……
-sud/sud_vo_adv_group_mna_01_02-mna002|あ、君か実は……ちょっと迷ってて。これに誘われたの
-sud/sud_vo_adv_group_mna_01_02-mna003|良かったら君が行く？相手の人に連絡はしておくから
-sud/sud_vo_adv_group_mna_01_02-mna004|なんで？
-sud/sud_vo_adv_group_mna_01_02-mna005|……うん、そうだね
-sud/sud_vo_adv_group_mna_01_02-mna006|私が行くよばいばい。また明日ね
-sud/sud_vo_adv_group_mna_01_02-mna007|長瀬麻奈です、はじめましてあの……三枝さんは？
-sud/sud_vo_adv_group_mna_01_02-mna008|本物のライブ……
-sud/sud_vo_adv_group_mna_01_02-mna009|……そうなんですか
-sud/sud_vo_adv_group_mna_01_02-mna010|――あれ？
-sud/sud_vo_adv_group_mna_01_02-mna011|アイドルに興味ないって……それなのに、あんなに……
-sud/sud_vo_adv_group_mna_01_02-mna012|どうして……
-sud/sud_vo_adv_group_mna_01_02-mna013|どうして、あそこに立っているのは私じゃないんだろう……
-sud/sud_vo_adv_group_mna_01_02-mna014|お願いがあるの
-sud/sud_vo_adv_group_mna_01_02-mna015|あのね――
-sud/sud_vo_adv_group_mna_01_03-mna001|はい！
-sud/sud_vo_adv_group_mna_01_03-mna002|やったね、君！ううん、マネージャー
-sud/sud_vo_adv_group_mna_01_03-mna003|今日から私のために馬車馬のように働いてね！
-sud/sud_vo_adv_group_mna_01_03-mna004|じゃあ、行こっか、君……じゃなくて、マネージャー
-sud/sud_vo_adv_group_mna_01_03-mna005|えっ？　そうですか？やった、褒められたよ！
-sud/sud_vo_adv_group_mna_01_03-mna006|以前、動画で観て覚えました
-sud/sud_vo_adv_group_mna_01_03-mna007|ふぃ～っ、今日も私レッスン頑張った～っ！いい汗かいた～っ！
-sud/sud_vo_adv_group_mna_01_03-mna008|だけど、疲れたよ～っ！{user}く～ん！
-sud/sud_vo_adv_group_mna_01_03-mna009|学生とアイドルの二重生活ってすっごく大変だよ
-sud/sud_vo_adv_group_mna_01_03-mna010|よく学校に通いながらアイドルしてる子がいるけどその子達は、こんなに努力してたんだね
-sud/sud_vo_adv_group_mna_01_03-mna011|え……ホント？
-sud/sud_vo_adv_group_mna_01_03-mna012|ええーっ！？君、なんとかしてよ
-sud/sud_vo_adv_group_mna_01_03-mna013|するよ
-sud/sud_vo_adv_group_mna_01_03-mna014|当たり前私はステージで歌うためにこの世界に入ったんだよ
-sud/sud_vo_adv_group_mna_01_03-mna015|睡眠時間を削ってもやり遂げてみせるから！
-sud/sud_vo_adv_group_mna_01_03-mna016|すー、すー
-sud/sud_vo_adv_group_mna_01_03-mna017|……？　もうスタジオ着いたの？ね。
-sud/sud_vo_adv_group_mna_01_03-mna018|――へっ？　あっ、147ページね！えっと、答えは『三権分立』です！
-sud/sud_vo_adv_group_mna_01_03-mna021|もう、怒られちゃったじゃない！ちゃんとフォローしてよ、マネージャー！
-sud/sud_vo_adv_group_mna_01_04-mna001|……デビュー………………え？　私？
-sud/sud_vo_adv_group_mna_01_04-mna002|いつ、どこで歌わせてもらえるんですか？
-sud/sud_vo_adv_group_mna_01_04-mna003|うん、遙子ちゃん嬉しいよ。ありがとう
-sud/sud_vo_adv_group_mna_01_04-mna004|…………どうして、分かったの？
-sud/sud_vo_adv_group_mna_01_04-mna005|さすがだね、君私のこと、よく見ててくれてるんだね
-sud/sud_vo_adv_group_mna_01_04-mna006|誤解しないでデビューはゴールじゃなくてスタートなの
-sud/sud_vo_adv_group_mna_01_04-mna007|私も調べてみたの。今はね毎年五百組近いアイドルがデビューしてるんだって
-sud/sud_vo_adv_group_mna_01_04-mna008|でも、そのほとんどがデビューしただけで、消えちゃう
-sud/sud_vo_adv_group_mna_01_04-mna009|私は、沢山歌いたいデビューしてすぐ消えたくなんてない！
-sud/sud_vo_adv_group_mna_01_04-mna010|うん……
-sud/sud_vo_adv_group_mna_01_04-mna011|ありがとう。頼りにしてるね！
-sud/sud_vo_adv_group_mna_01_04-mna012|私、長瀬麻奈のデビューライブ、来週の日曜日星見公園の野外ステージで行います！
-sud/sud_vo_adv_group_mna_01_04-mna013|ビラくらいもらってくれると思ってたのにね
-sud/sud_vo_adv_group_mna_01_04-mna014|うん、頑張ろう！　おーっ！
-sud/sud_vo_adv_group_mna_01_05-mna001|長瀬麻奈でーす！応援よろしくお願いします！
-sud/sud_vo_adv_group_mna_01_05-mna002|な、長瀬麻奈！　長瀬麻奈！長瀬麻奈のデビューライブです……！
-sud/sud_vo_adv_group_mna_01_05-mna003|な、長瀬麻奈でーす……長瀬麻奈に清き一票を……
-sud/sud_vo_adv_group_mna_01_05-mna004|君だって足元フラついてるじゃん……はぁ……
-sud/sud_vo_adv_group_mna_01_05-mna005|そんなこと言ったって全然チラシもらってくれないもん！
-sud/sud_vo_adv_group_mna_01_05-mna006|疲れるし、ヘコむよ！さっきなんて目の前で捨てられたし！
-sud/sud_vo_adv_group_mna_01_05-mna007|日曜？　私と……同じ日にデビューするんだ……
-sud/sud_vo_adv_group_mna_01_05-mna008|……悔しい……！！
-sud/sud_vo_adv_group_mna_01_05-mna009|こんなことで、決まっちゃうなんて……！歌なら負けない、絶対負けないのに！
-sud/sud_vo_adv_group_mna_01_05-mna010|えっ？　こ、ここで歌うの？　今から？衣装もオケもないんだよ？
-sud/sud_vo_adv_group_mna_01_05-mna011|で、でも……
-sud/sud_vo_adv_group_mna_01_05-mna012|……分かったデビュー前の路上レッスンだね。……やろう！！
-sud/sud_vo_adv_group_mna_01_05-mna013|来週はもっと歌うから、絶対来てね！
-sud/sud_vo_adv_group_mna_01_05-mna014|みなさん、はじめまして！　長瀬麻奈です！
-sud/sud_vo_adv_group_mna_01_05-mna015|今日は私の記念すべきデビューライブ！ステージで歌う、最初の日です！
-sud/sud_vo_adv_group_mna_01_05-mna016|最後まで楽しんでって下さいね！――歌います！
-sud/sud_vo_adv_group_mna_01_05-mna017|みんな、大好きーーっ！
-sud/sud_vo_adv_group_mna_01_06-mna001|ただいまー。あー、今日も歌った～！お腹減った～！
-sud/sud_vo_adv_group_mna_01_06-mna002|うん。今日は琴乃と一緒に入ろうかな久しぶりに姉妹水入らずで！
-sud/sud_vo_adv_group_mna_01_06-mna003|……やっぱり、まだ怒ってる？
-sud/sud_vo_adv_group_mna_01_06-mna004|……私、ちょっと話してくる！
-sud/sud_vo_adv_group_mna_01_06-mna005|琴乃、琴乃、お姉ちゃんだよ開けて
-sud/sud_vo_adv_group_mna_01_06-mna006|ちょっとでいいから、お話しない？私、琴乃に聞いてほしいことがあるの
-sud/sud_vo_adv_group_mna_01_06-mna007|……、琴乃に無視されるとお姉ちゃん凄く悲しいんだけど……
-sud/sud_vo_adv_group_mna_01_06-mna008|……ぐすん
-sud/sud_vo_adv_group_mna_01_06-mna009|やっと開けてくれた私、演技の方もなかなかでしょ？
-sud/sud_vo_adv_group_mna_01_06-mna010|待って待って、騙してごめんねでも、たまにはお姉ちゃんの相手をしてくれない？
-sud/sud_vo_adv_group_mna_01_06-mna011|私、琴乃と距離を取った覚えなんてないよ
-sud/sud_vo_adv_group_mna_01_06-mna012|そうだね。確かに琴乃と一緒にいる時間は減っちゃったね
-sud/sud_vo_adv_group_mna_01_06-mna013|うっ……。それは……ごめん……
-sud/sud_vo_adv_group_mna_01_06-mna014|……ステージで歌うのが好きだから……かな？
-sud/sud_vo_adv_group_mna_01_06-mna015|私と仕事どっちが大事なの？　みたいな質問だね両方とも大好きだよ
-sud/sud_vo_adv_group_mna_01_06-mna016|ちょっと、押さないでよもうちょっとお姉ちゃんとお話を――
-sud/sud_vo_adv_group_mna_01_06-mna017|……琴乃ごめんね、寂しい思いさせちゃって
-sud/sud_vo_adv_group_mna_01_06-mna018|でも、でもね、歌って凄いんだみんなを元気に出来る力があるの
-sud/sud_vo_adv_group_mna_01_06-mna019|いつか私のステージ、琴乃にも観てほしいな
-sud/sud_vo_adv_group_mna_01_06-mna021|日記書いとこ……
-sud/sud_vo_adv_group_mna_01_06-mna022|（今日も琴乃は私が歌うことを認めてくれなかった）
-sud/sud_vo_adv_group_mna_01_06-mna023|（お客さんは一杯入ってくれている）（でも新人の私は毎日ミスの連続でヘコんじゃう）
-sud/sud_vo_adv_group_mna_01_06-mna024|（彼や三枝さんはいつも笑って）（フォローしてくれるけど、悪いな……）
-sud/sud_vo_adv_group_mna_01_06-mna025|（琴乃に寂しい思いをさせて、みんなに迷惑かけて……）（私、全然ダメだ……）
-sud/sud_vo_adv_group_mna_01_06-mna026|（でも、私は――）
-sud/sud_vo_adv_group_mna_01_06-mna027|……え？　どうして分かったの？目の下のクマとか、見えてないよね
-sud/sud_vo_adv_group_mna_01_06-mna028|ふふっ、何それ……実は昨日、妹とちょっとケンカしちゃって
-sud/sud_vo_adv_group_mna_01_06-mna029|ううん、それはいいの大丈夫、琴乃もいつか分かってくれるから
-sud/sud_vo_adv_group_mna_01_06-mna030|あっ、はーい！　行ってくるね
-sud/sud_vo_adv_group_mna_01_06-mna031|こんばんはー！　星見プロの長瀬麻奈でーす！
-sud/sud_vo_adv_group_mna_01_06-mna032|えっ？
-sud/sud_vo_adv_group_mna_01_06-mna033|ね！　君！しっかりして！
-sud/sud_vo_adv_group_mna_01_06-mna034|……私は、大丈夫でも……かわりに……
-sud/sud_vo_adv_group_mna_01_06-mna035|琴乃……
-sud/sud_vo_adv_group_mna_01_06-mna036|えっ？　あっ、うん
-sud/sud_vo_adv_group_mna_01_06-mna037|……私、歌ってもいいのかな……
-sud/sud_vo_adv_group_mna_01_06-mna038|ごめん！なんでもないの。行ってくるね！
-sud/sud_vo_adv_group_mna_01_06-mna039|はぁっ、はぁっ、ダメ……体が動かない……
-sud/sud_vo_adv_group_mna_01_06-mna040|どうしよう……声が出ない歌えないよ……！
-sud/sud_vo_adv_group_mna_01_07-mna001|……はぁ
-sud/sud_vo_adv_group_mna_01_07-mna002|お、おはよ……どうしたの？
-sud/sud_vo_adv_group_mna_01_07-mna003|え！？　う、うん……分かった
-sud/sud_vo_adv_group_mna_01_07-mna004|ふふっ。そうだね、私達だけだよ告白するには絶好のタイミングだね
-sud/sud_vo_adv_group_mna_01_07-mna005|ふふっ。別にそんなの気にしなくていいのに君と私の仲じゃない
-sud/sud_vo_adv_group_mna_01_07-mna006|主従関係？
-sud/sud_vo_adv_group_mna_01_07-mna007|あはは、ごめんごめん仕事仲間だよ。対等対等
-sud/sud_vo_adv_group_mna_01_07-mna008|……うん、ごめんねみんなに迷惑かけちゃって
-sud/sud_vo_adv_group_mna_01_07-mna009|……あるよ
-sud/sud_vo_adv_group_mna_01_07-mna010|でも、言えない。君を巻き込んだ私が言っていいことじゃないよ
-sud/sud_vo_adv_group_mna_01_07-mna011|（アイドルを続けていいのか悩んでる、なんて……）
-sud/sud_vo_adv_group_mna_01_07-mna012|……ごめんね。もう少し時間がほしいの気持ちの整理がついたら、ちゃんと話すから
-sud/sud_vo_adv_group_mna_01_07-mna013|……ん
-sud/sud_vo_adv_group_mna_01_07-mna014|え……私、別に辛いなんて一言も……
-sud/sud_vo_adv_group_mna_01_07-mna015|（……私の気持ち、琴乃には見透かされてる）（きっと、彼にも）
-sud/sud_vo_adv_group_mna_01_07-mna016|（もしアイドルを辞めたら、もう琴乃に）（寂しい想いをさせないで済むのかな）
-sud/sud_vo_adv_group_mna_01_07-mna017|（彼を振り回したり）（また危ない目に遭わせることも……）
-sud/sud_vo_adv_group_mna_01_07-mna018|……琴乃、ごめん
-sud/sud_vo_adv_group_mna_01_07-mna019|私、やっぱり辞めない辞めたくないの……
-sud/sud_vo_adv_group_mna_01_07-mna020|私は、もっと沢山歌いたい私の歌を待っている人達の前で
-sud/sud_vo_adv_group_mna_01_07-mna021|だから、ごめんね、琴乃
-sud/sud_vo_adv_group_mna_01_07-mna022|ねえ、君私に勝ってほしい？
-sud/sud_vo_adv_group_mna_01_07-mna023|ふふっ、ブレないね、じゃあ、一つお願い
-sud/sud_vo_adv_group_mna_01_07-mna024|ステージに行く時、私の背中を押してほしいのバシッ！　って送り出してくれないかな
-sud/sud_vo_adv_group_mna_01_07-mna025|はーいほらマネージャー、押して押して
-sud/sud_vo_adv_group_mna_01_07-mna026|もっと強く！
-sud/sud_vo_adv_group_mna_01_07-mna027|いったーい！酷いよ君！！
-sud/sud_vo_adv_group_mna_01_07-mna028|あはは……“おまじない”だよそれじゃ、行ってきます！
-sud/sud_vo_adv_group_mna_01_07-mna029|みんなーっ！　ありがとう！一杯心配させてごめんね！！
-sud/sud_vo_adv_group_mna_01_07-mna030|お詫びって訳じゃないけど、みんなに約束するね私、これから先、ライブバトルに絶対に負けないから！
-sud/sud_vo_adv_group_mna_01_07-mna031|（そして、自分の弱さにも……）（ありがとう。君のおかげだよ）
-sud/sud_vo_adv_group_mna_01_08-mna001|私が星見まつりに参加……ですか？
-sud/sud_vo_adv_group_mna_01_08-mna002|やったー！　私、一度星見まつりに出たかったんだよね屋台の客引きなら任せて！
-sud/sud_vo_adv_group_mna_01_08-mna004|やったーっ！　さすが市長！分かってらっしゃるーっ！
-sud/sud_vo_adv_group_mna_01_08-mna005|最近、東京での仕事が多かったから地元の人に恩返しが出来るいいチャンスだね
-sud/sud_vo_adv_group_mna_01_08-mna006|何それ！私が安いから選ばれたみたいじゃない！！
-sud/sud_vo_adv_group_mna_01_08-mna007|くっ、来年の星見まつりまでにトップアイドルになって見返してやるんだから……！
-sud/sud_vo_adv_group_mna_01_08-mna008|ふーんだ、星見まつりでもっともっとファンを増やしちゃうからなれるもん。……ってことで出ます！
-sud/sud_vo_adv_group_mna_01_08-mna009|ほらほら、三枝さんもそう言ってるし！私、なんっでも協力するから！
-sud/sud_vo_adv_group_mna_01_08-mna010|すっっっごい協力するから！！
-sud/sud_vo_adv_group_mna_01_08-mna011|早速、セットリスト決めよ！あっ、東京のスタジオで先生にも相談しなきゃ
-sud/sud_vo_adv_group_mna_01_08-mna012|そうだ、このイベント用に新曲も作りたいな！やることいっぱいだよ！
-sud/sud_vo_adv_group_mna_01_08-mna013|行こう！
-sud/sud_vo_adv_group_mna_01_08-mna014|うわー、せっかくのお祭りなのに天気わるーい……これじゃあ、今年は流星群見れないね
-sud/sud_vo_adv_group_mna_01_08-mna015|はーい！　……ってアイドル自ら設営するっておかしくない！？
-sud/sud_vo_adv_group_mna_01_08-mna016|私、なんっでも協力するから！
-sud/sud_vo_adv_group_mna_01_08-mna017|すっっっごい協力するから！！
-sud/sud_vo_adv_group_mna_01_08-mna018|……って、なんでスマホに録音なんてしてるのよーっ！？
-sud/sud_vo_adv_group_mna_01_08-mna019|酷いよ！　私がいつ君にパワハラしたのよ？！
-sud/sud_vo_adv_group_mna_01_08-mna020|わっ、降ってきちゃった！……これじゃ、本当に星見れないね
-sud/sud_vo_adv_group_mna_01_08-mna021|う、うん、ライブはどうなるの？
-sud/sud_vo_adv_group_mna_01_08-mna022|みんな、こんばんはーっ！
-sud/sud_vo_adv_group_mna_01_08-mna023|――さあ歌うよ、麻奈
-sud/sud_vo_adv_group_mna_01_09-mna001|あーあ、なんか時間空いちゃったね
-sud/sud_vo_adv_group_mna_01_09-mna002|うー、みんなはお祭り楽しんでるのに～……ね、お願いがあります！
-sud/sud_vo_adv_group_mna_01_09-mna003|まだ何も言ってないのに！？
-sud/sud_vo_adv_group_mna_01_09-mna004|遊びじゃないよ！私、星見まつりのためにもっと頑張りたいの
-sud/sud_vo_adv_group_mna_01_09-mna005|ふふっ、それは――
-sud/sud_vo_adv_group_mna_01_09-mna006|はーい、美味しい美味しいかき氷ですよ！添加物一切なしの自然な味！
-sud/sud_vo_adv_group_mna_01_09-mna007|最先端化学が作り上げた究極の味ですよー！
-sud/sud_vo_adv_group_mna_01_09-mna008|お面ちゃんとかぶるよもう君は心配性だな～
-sud/sud_vo_adv_group_mna_01_09-mna009|ふふっ、アイドルのライブじゃなくてヒーローショーになっちゃうもんね！
-sud/sud_vo_adv_group_mna_01_09-mna010|はい、ありがとうございます！イチゴ入りました！
-sud/sud_vo_adv_group_mna_01_09-mna011|お待たせしました！　300円です……はい、ありがとうございましたー！
-sud/sud_vo_adv_group_mna_01_09-mna012|あー、楽しい！こういうの一度やってみたかったんだ～
-sud/sud_vo_adv_group_mna_01_09-mna013|――え？
-sud/sud_vo_adv_group_mna_01_09-mna014|待って下さい！　私、見たんです！もう会場にお客さん一杯いました！
-sud/sud_vo_adv_group_mna_01_09-mna015|雨の中、私の歌を待ってくれているんですよ！？私、歌いたいです！！
-sud/sud_vo_adv_group_mna_01_09-mna016|けど……
-sud/sud_vo_adv_group_mna_01_09-mna017|…………っ
-sud/sud_vo_adv_group_mna_01_09-mna018|…………、三枝さん………………ごめんなさい！
-sud/sud_vo_adv_group_mna_01_09-mna019|みんな、こんばんはーっ！体寒くない？　風邪引いちゃダメだよ！
-sud/sud_vo_adv_group_mna_01_09-mna020|この日のための新曲もあるの！今日のために、私一生懸命書いたんだよ……！
-sud/sud_vo_adv_group_mna_01_09-mna021|……私、歌ってもいい？
-sud/sud_vo_adv_group_mna_01_09-mna022|――さあ歌うよ、麻奈
-sud/sud_vo_adv_group_mna_01_09-mna023|あ、みんな見て！凄い星空！！
-sud/sud_vo_adv_group_mna_01_09-mna024|さあみんな、最後の曲は新曲だよ！星に願いを込めて、聞いてね！　『星の海の記憶』！
-sud/sud_vo_adv_group_mna_01_09-mna025|ねえ。
-sud/sud_vo_adv_group_mna_01_09-mna026|――海に行こう、私も見たい流星群
-sud/sud_vo_adv_group_mna_01_10-mna001|あ～あ、出席日数不足でこのままだと卒業出来ないなんて……
-sud/sud_vo_adv_group_mna_01_10-mna002|ちゃんと計算してたはずなのにどうしてこんなことに……！？
-sud/sud_vo_adv_group_mna_01_10-mna003|えーっ、私のせい？スケジュール管理はマネージャーの仕事でしょ
-sud/sud_vo_adv_group_mna_01_10-mna004|先生、なんとかなりませんか！？私なんでもしますから！
-sud/sud_vo_adv_group_mna_01_10-mna005|あっ、校長先生……はい！なんでもです！　卒業出来るならなんでもします！
-sud/sud_vo_adv_group_mna_01_10-mna006|彼と一緒に！
-sud/sud_vo_adv_group_mna_01_10-mna007|校長先生、ありがとうございます！
-sud/sud_vo_adv_group_mna_01_10-mna008|お、お願いってなんでしょうか……？彼に一体何をやらせる気――
-sud/sud_vo_adv_group_mna_01_10-mna009|校長先生のお孫さんが、私のファンだったなんてね……でも、おかげで助かっちゃった
-sud/sud_vo_adv_group_mna_01_10-mna010|固いこと言わない。ファンのために歌えてしかも！　卒業まで出来ちゃうんだよ？
-sud/sud_vo_adv_group_mna_01_10-mna011|そこは敏腕マネージャーがうまく説得してくれるよね信じてるから
-sud/sud_vo_adv_group_mna_01_10-mna012|……頼もしくなったね
-sud/sud_vo_adv_group_mna_01_10-mna013|なんでもないよ、さ、急ご！学園祭のセットリスト作らないと
-sud/sud_vo_adv_group_mna_01_10-mna014|ふふっ、楽しみがまた一つ増えたよ
-sud/sud_vo_adv_group_mna_01_10-mna015|去年、学園祭で歌った時より、ずっと多いよ
-sud/sud_vo_adv_group_mna_01_10-mna016|これからも沢山のステージで歌うと思うけど……ここで歌うのは、これが最後かもね
-sud/sud_vo_adv_group_mna_01_10-mna017|行ってくる……背中背中！
-sud/sud_vo_adv_group_mna_01_10-mna018|みんな、もっと元気に！　せーの！
-sud/sud_vo_adv_group_mna_01_10-mna019|次の曲、いきまーす！
-sud/sud_vo_adv_group_mna_01_10-mna020|あー、やっと補習終わったよ～
-sud/sud_vo_adv_group_mna_01_10-mna021|でも、もうこれで、ここに来ることもないねこれが本当の卒業式だね
-sud/sud_vo_adv_group_mna_01_10-mna022|仰げばー尊しー、わが師のー恩～
-sud/sud_vo_adv_group_mna_01_10-mna023|何？
-sud/sud_vo_adv_group_mna_01_10-mna024|全然寂しくないよ。だって君とは今までもこれからもずっと一緒でしょ？
-sud/sud_vo_adv_group_mna_01_10-mna025|君は寂しいの？
-sud/sud_vo_adv_group_mna_01_10-mna026|ふふっ、それはお互い様だよ
-sud/sud_vo_adv_group_mna_01_10-mna027|うん！
-sud/sud_vo_adv_group_mna_01_11-mna001|やったーっ！　みんな応援ありがとう！
-sud/sud_vo_adv_group_mna_01_11-mna002|あはは、ただ歌が好きなだけですよ
-sud/sud_vo_adv_group_mna_01_11-mna003|これまで通りステージで歌います！ファンのみなさんのために歌うだけです！
-sud/sud_vo_adv_group_mna_01_11-mna004|ありがとう……っと
-sud/sud_vo_adv_group_mna_01_11-mna005|大丈夫だよ。ちょっと力が抜けちゃっただけライブが終わって緊張が緩んだから
-sud/sud_vo_adv_group_mna_01_11-mna006|何深刻な顔してるの？もしかして疲れた？
-sud/sud_vo_adv_group_mna_01_11-mna007|何それ。エッチな意味？
-sud/sud_vo_adv_group_mna_01_11-mna008|何がそんなに凄いの？
-sud/sud_vo_adv_group_mna_01_11-mna009|……デレデレしちゃって女の子なら誰でもいいんだ
-sud/sud_vo_adv_group_mna_01_11-mna010|ふん、どうだか！
-sud/sud_vo_adv_group_mna_01_11-mna011|いいです。私、彼がいなくても勝手に仕事取ってきて勝手に歌うから
-sud/sud_vo_adv_group_mna_01_11-mna012|絶対イヤ。星見まつりの時だってみんな止めたけど大成功したじゃない
-sud/sud_vo_adv_group_mna_01_11-mna013|そんなの間違ってる。ファンのみんなが待ってるなら長瀬麻奈は歌わない訳にはいかないよ
-sud/sud_vo_adv_group_mna_01_11-mna014|…………レッスン行ってくる
-sud/sud_vo_adv_group_mna_01_11-mna015|遙子ちゃんのマネージャーはついてこなくていいですから
-sud/sud_vo_adv_group_mna_01_11-mna016|全然、連絡くれない！君、酷いんじゃない！？
-sud/sud_vo_adv_group_mna_01_11-mna017|明日の現場は東京じゃなくて横浜だよ！間違って遅れないでよね！
-sud/sud_vo_adv_group_mna_01_11-mna018|なんで嬉しそうなのよ……あのね。
-sud/sud_vo_adv_group_mna_01_11-mna019|……やっぱりなんでもないおやすみなさい！
-sud/sud_vo_adv_group_mna_01_11-mna020|……助けて。ね。助けて
-sud/sud_vo_adv_group_mna_01_12-mna001|あっここだよ！
-sud/sud_vo_adv_group_mna_01_12-mna002|実は、電車で居眠りしちゃって……気が付いたら東京まで行っちゃったの
-sud/sud_vo_adv_group_mna_01_12-mna003|お説教は後！タクシー代、足りなくなっちゃったの！　助けて
-sud/sud_vo_adv_group_mna_01_12-mna004|はぁはぁ、ごめんなさいお待たせしました！
-sud/sud_vo_adv_group_mna_01_12-mna005|えっと……今日は迷惑かけてごめんなさい
-sud/sud_vo_adv_group_mna_01_12-mna006|あっ、うん、これからは絶対にこんなミスしないよ
-sud/sud_vo_adv_group_mna_01_12-mna007|え？　そんなことないよ君もマネージャーに復帰したし
-sud/sud_vo_adv_group_mna_01_12-mna008|それは……
-sud/sud_vo_adv_group_mna_01_12-mna009|私は歌ってない方が、体の調子が悪くなるの！理屈じゃないの！
-sud/sud_vo_adv_group_mna_01_12-mna010|絶対に迷惑かけないようにするから、お願い……私から歌を奪わないで
-sud/sud_vo_adv_group_mna_01_12-mna011|そんな顔しないでごめんね、わがまま言って……
-sud/sud_vo_adv_group_mna_01_12-mna012|え？　平気だよ？今のリハだってばっちりだったでしょ？
-sud/sud_vo_adv_group_mna_01_12-mna013|……ホントはちょっとだけ良くないかも？
-sud/sud_vo_adv_group_mna_01_12-mna014|そんな顔しないで。大丈夫！私はステージに立てば元気になるから
-sud/sud_vo_adv_group_mna_01_12-mna015|はーい！行ってくるね！
-sud/sud_vo_adv_group_mna_01_12-mna016|みなさん、こんばんはーっ！今日も元気一杯に歌っちゃうよ！
-sud/sud_vo_adv_group_mna_01_12-mna017|ただいまー、今日はどうだった？
-sud/sud_vo_adv_group_mna_01_12-mna018|あはは、だから言ったでしょ？私はステージに上がれば元気になるって
-sud/sud_vo_adv_group_mna_01_12-mna019|……あっ、あれ？　急に目眩が……君がぼやけて見えて
-sud/sud_vo_adv_group_mna_01_13-mna001|断った！？　なんでそんないい話を断ったの？
-sud/sud_vo_adv_group_mna_01_13-mna002|どうして、そんなことするの？私に相談もなしに！
-sud/sud_vo_adv_group_mna_01_13-mna003|何、それ…………それでも、マネージャーなの！？
-sud/sud_vo_adv_group_mna_01_13-mna004|こんなの明日には退院できるってお医者さんも言ってたよ！　ギリギリ間に合うでしょ？
-sud/sud_vo_adv_group_mna_01_13-mna005|レイーズは大きな会場だし、あそこならもっと沢山のファンに私の歌を届け――
-sud/sud_vo_adv_group_mna_01_13-mna006|えっ……{user}……くん……？
-sud/sud_vo_adv_group_mna_01_13-mna007|……
-sud/sud_vo_adv_group_mna_01_13-mna008|……ごめん
-sud/sud_vo_adv_group_mna_01_13-mna009|私、気付かないうちに君にいろいろ背負わせてたんだね
-sud/sud_vo_adv_group_mna_01_13-mna010|でもね、聞いてほしいの私、少し前、女の子からファンレターもらったんだ
-sud/sud_vo_adv_group_mna_01_13-mna011|その子ね、重い病気で私のライブに来られないんだって
-sud/sud_vo_adv_group_mna_01_13-mna012|だから、テレビやブルーレイを観ながら一人で私を応援してるんだって
-sud/sud_vo_adv_group_mna_01_13-mna013|でも、手紙の最後にこう書いてあったの
-sud/sud_vo_adv_group_mna_01_13-mna014|いつか、きっとライブに行くからって……死んじゃう前に、這ってでも行くからって
-sud/sud_vo_adv_group_mna_01_13-mna015|この子だけじゃないたった一度しか来てもらえない人達が、大勢いる
-sud/sud_vo_adv_group_mna_01_13-mna016|私はね、そんな人達に私の歌を届ける機会を少しでも増やしたい
-sud/sud_vo_adv_group_mna_01_13-mna017|君の言うことは分かるスタッフさん達に迷惑かけたくないのは私も同じ
-sud/sud_vo_adv_group_mna_01_13-mna018|でも……アイドル・長瀬麻奈は、誰かを笑顔にするため希望を与えるために存在しているの
-sud/sud_vo_adv_group_mna_01_13-mna019|ライブはいつだって一期一会だからもう二度と聴いてもらえない人もいるから
-sud/sud_vo_adv_group_mna_01_13-mna020|だから、止められたって、会場がなくたってどんな場所でだって私は歌うつもり
-sud/sud_vo_adv_group_mna_01_13-mna021|……それがアイドル・長瀬麻奈なんだよ
-sud/sud_vo_adv_group_mna_01_13-mna022|……じゃあ
-sud/sud_vo_adv_group_mna_01_13-mna023|うん、分かった……ありがとう
-sud/sud_vo_adv_group_mna_01_13-mna024|第十四回 NEXT VENUSグランプリ
-sud/sud_vo_adv_group_mna_01_13-mna025|……私は出たいです
-sud/sud_vo_adv_group_mna_01_13-mna026|ただいま、琴乃今日はね、報告があるの
-sud/sud_vo_adv_group_mna_01_13-mna027|私、NEXT決勝のステージに立てれば、日本中に歌を届けられる
-sud/sud_vo_adv_group_mna_01_13-mna028|今はこんな風に扉越しでしか話せない私達だけど……もし私が決勝に進んだら、聴いてほしいの
-sud/sud_vo_adv_group_mna_01_13-mna029|琴乃にも、私の歌を――
-sud/sud_vo_adv_group_mna_01_13-mna030|……一応、チケットの準備はするから
-sud/sud_vo_adv_group_mna_01_14-mna001|ありがとうー！
-sud/sud_vo_adv_group_mna_01_14-mna002|ひゃあっ！？君、なんでここに！？
-sud/sud_vo_adv_group_mna_01_14-mna003|あ、あはは、そういえばそうだったねおはよう！　朝早いね
-sud/sud_vo_adv_group_mna_01_14-mna004|あ、うんこれは、その……歌詞……的な……？
-sud/sud_vo_adv_group_mna_01_14-mna005|うん、私、琴乃に――妹に決勝のステージを観てもらうから
-sud/sud_vo_adv_group_mna_01_14-mna006|出来れば、私の想いをあの子に伝えたくて今まで思ったこと、感じたことをまとめてたんだ
-sud/sud_vo_adv_group_mna_01_14-mna007|だから、日記を読み返しながら、書いてたの
-sud/sud_vo_adv_group_mna_01_14-mna008|見せないよ！　絶対見せないよ！これは乙女のトップシークレットなんだから！
-sud/sud_vo_adv_group_mna_01_14-mna009|そこは敏腕マネージャーのパワーでお願いします……ダメかな？
-sud/sud_vo_adv_group_mna_01_14-mna010|やった！マネージャー、愛してる！
-sud/sud_vo_adv_group_mna_01_14-mna011|君からの初めてのプレゼントだからね！　レアだよレア
-sud/sud_vo_adv_group_mna_01_14-mna012|だって「初めての挫折を味わわせてあげる。おほほ！」なんて失礼なこと言うんだもん。頭に来ちゃって、つい
-sud/sud_vo_adv_group_mna_01_14-mna013|ね、私、決勝のステージであの歌を歌う。琴乃もきっと観に来てくれる
-sud/sud_vo_adv_group_mna_01_14-mna014|だから、みっともなく負ける訳にはいかないよ
-sud/sud_vo_adv_group_mna_01_14-mna015|え？　どうしたの？急に褒め出して
-sud/sud_vo_adv_group_mna_01_14-mna016|……私一人じゃ出来なかったよ
-sud/sud_vo_adv_group_mna_01_14-mna017|デビューの時も、星見まつりの時もいつも君が、そばにいてくれた
-sud/sud_vo_adv_group_mna_01_14-mna018|暴走しそうになる私を叱ったり、慰めたりしながら一生懸命守ってくれた
-sud/sud_vo_adv_group_mna_01_14-mna019|アイドル長瀬麻奈は、一人だけど、一人じゃないんだ
-sud/sud_vo_adv_group_mna_01_14-mna020|一人じゃないから、歌えるんだよ、私ねぇ、これからも、私のそばにいてくれる？
-sud/sud_vo_adv_group_mna_01_14-mna021|…………ね？
-sud/sud_vo_adv_group_mna_01_14-mna022|お願いがあるの
-sud/sud_vo_adv_group_mna_01_14-mna023|みんな、こんばんはーっ！
-sud/sud_vo_adv_group_mna_01_14-mna024|一人じゃないから、歌えるんだよ、私ねぇ、これからも、私のそばにいてくれる？
-sud/sud_vo_adv_group_mna_01_15-mna001|ね
-sud/sud_vo_adv_group_mna_01_15-mna002|こら。聞こえない？
-sud/sud_vo_adv_group_mna_01_15-mna003|何、びっくりしてるの？
-sud/sud_vo_adv_group_mna_01_15-mna004|……久しぶりね
-sud/sud_vo_adv_group_mna_01_15-mna005|うん……ごめんね。あの日、会場に行けなくて
-sud/sud_vo_adv_group_mna_01_15-mna006|あとこれ、夢じゃないから私、今、幽霊やってるんだ
-sud/sud_vo_adv_group_mna_01_15-mna007|うーらーめーしーやー♪
-sud/sud_vo_adv_group_mna_01_15-mna008|あっ、やっと笑ったねそうだよ元気出して、笑ってよ
-sud/sud_vo_adv_group_mna_01_15-mna009|君がめそめそしてたら私、安心して成仏出来ないよ？
-sud/sud_vo_adv_group_mna_01_15-mna010|そこは、うん、私もそう思うけど……そういうめぐり合わせなんだよ。しかたない
-sud/sud_vo_adv_group_mna_01_15-mna011|だけど、どうしてもいくつか心残りがあってもうちょっとこっちに残ることにしたんだ
-sud/sud_vo_adv_group_mna_01_15-mna012|うん。それはね――
+sud/sud_vo_adv_card_mna_01_01-mna001.wav|はぁ、はぁ、ま、間に合った～っ……！おはよ、はぁはぁ、はぁ、はぁ、
+sud/sud_vo_adv_card_mna_01_01-mna002.wav|今日は油断して二度寝しちゃった～琴乃もお母さんも、起こしてくれないんだもん
+sud/sud_vo_adv_card_mna_01_01-mna003.wav|まぁ、朝からのダッシュでいい運動にはなったけどね
+sud/sud_vo_adv_card_mna_01_01-mna004.wav|何言ってるの、デビューしたばかりの新人アイドルが忙しいなんてありがたいことじゃん
+sud/sud_vo_adv_card_mna_01_01-mna005.wav|もっと入れたいぐらいだよ本当はこうして授業に出る時間も惜しいくらい
+sud/sud_vo_adv_card_mna_01_01-mna006.wav|分かってるよ、だから、頑張って両立してるんでしょ
+sud/sud_vo_adv_card_mna_01_01-mna007.wav|私、成績は落ちてないもん……あんまり
+sud/sud_vo_adv_card_mna_01_01-mna008.wav|そう思うなら、毎朝、車で迎えに来てくれればいいのに
+sud/sud_vo_adv_card_mna_01_01-mna009.wav|取ればいいのに。もう取れるんでしょ？
+sud/sud_vo_adv_card_mna_01_01-mna010.wav|君が車の運転出来たら便利だし一緒にいろんな所に行けて楽しいだろうな
+sud/sud_vo_adv_card_mna_01_01-mna011.wav|え～？　そこは頑張ってよ。マネージャー
+sud/sud_vo_adv_card_mna_01_01-mna012.wav|何それ。もしかしたら、いつか私のマネージャー辞めるつもり？
+sud/sud_vo_adv_card_mna_01_01-mna013.wav|厳しい芸能界に、か弱い女の子を一人残して去っていくの？　酷いよ、君！
+sud/sud_vo_adv_card_mna_01_01-mna014.wav|お願い、私を捨てないで！
+sud/sud_vo_adv_card_mna_01_01-mna015.wav|君を引き留めるためなら手段は選ばないよ！
+sud/sud_vo_adv_card_mna_01_01-mna016.wav|だって、君が辞めちゃいそうなこと言うから……
+sud/sud_vo_adv_card_mna_01_01-mna017.wav|三枝さんに君を採用するよう私と遙子ちゃんで猛プッシュするから、大丈夫だよ！
+sud/sud_vo_adv_card_mna_01_01-mna018.wav|あと、私はか弱いの！　もっと大事にしないと移籍しちゃうぞ
+sud/sud_vo_adv_card_mna_01_01-mna019.wav|あ～あ、君の捕獲計画も立てないといけないのか～
+sud/sud_vo_adv_card_mna_01_01-mna020.wav|もう、また仕事が増えちゃったよ……忘れないようメモしとこ
+sud/sud_vo_adv_card_mna_01_01-mna021.wav|もちろん、君が私に初めてくれたプレゼントだもん。大事に使ってるよ
+sud/sud_vo_adv_card_mna_01_01-mna022.wav|ピンクなのがいいよ。君が私のために選んでくれたんだなーって分かる
+sud/sud_vo_adv_card_mna_01_01-mna023.wav|言わなくていいのに！知りたくなかったよ！　もう！
+sud/sud_vo_adv_card_mna_01_01-mna024.wav|怒ってない！！
+sud/sud_vo_adv_card_mna_01_01-mna025.wav|怒ってないし、分かってくれない君が悪いし
+sud/sud_vo_adv_card_mna_01_01-mna026.wav|君の捕獲計画、その一強烈な弱みを握る……
+sud/sud_vo_adv_card_mna_01_02-mna001.wav|はぁ、はぁ……うん、新曲の振り付けいい感じ……！
+sud/sud_vo_adv_card_mna_01_02-mna002.wav|君もそう思わない？
+sud/sud_vo_adv_card_mna_01_02-mna003.wav|素人じゃないよ、君は私のプロのアイドル、長瀬麻奈の専属マネージャーでしょ？
+sud/sud_vo_adv_card_mna_01_02-mna004.wav|でも、この前君のこと褒めてたよ。なかなか使い勝手のいいヤツだって
+sud/sud_vo_adv_card_mna_01_02-mna005.wav|もっと自信持ちなよ～。私がアイドルやっていけるのは君のおかげなんだよ
+sud/sud_vo_adv_card_mna_01_02-mna006.wav|あーっ、本気にしてないなー！本当に感謝してるのに
+sud/sud_vo_adv_card_mna_01_02-mna007.wav|そうだ！　感謝のしるしとして何かプレゼントしてあげようか？　何かほしいものある？
+sud/sud_vo_adv_card_mna_01_02-mna008.wav|そーいう現実的なことじゃなくて！出席日数もほしいけど
+sud/sud_vo_adv_card_mna_01_02-mna009.wav|分かった！　可愛い彼女だ！
+sud/sud_vo_adv_card_mna_01_02-mna010.wav|う～ん、残念私は、みんなのアイドルだから無理なんだよね～
+sud/sud_vo_adv_card_mna_01_02-mna011.wav|何それ、私はタイプじゃないってこと！？アッタマきた。問題発言だ！
+sud/sud_vo_adv_card_mna_01_02-mna012.wav|それはそうだけど……やっぱり納得いかない！
+sud/sud_vo_adv_card_mna_01_02-mna013.wav|んくっ、んくっ……あー！　レッスンの後の一杯は体に染みるよ～！
+sud/sud_vo_adv_card_mna_01_02-mna014.wav|つかまえて、失礼な！こんなに若くてかわいいアイドルを
+sud/sud_vo_adv_card_mna_01_02-mna015.wav|それに、これメロンソーダだし
+sud/sud_vo_adv_card_mna_01_02-mna016.wav|疲れてると甘いモノがほしくなるんだよあ～、人工甘味料が染みる～
+sud/sud_vo_adv_card_mna_01_02-mna017.wav|うん。あ、それ関係者用のチケット、余分にとれる？
+sud/sud_vo_adv_card_mna_01_02-mna018.wav|うん、家でも話すことめったになくなったし冷戦状態かな……なんとか認めてもらいたいけど……
+sud/sud_vo_adv_card_mna_01_02-mna019.wav|あっ、そうだ、君今度、琴乃に会わない？
+sud/sud_vo_adv_card_mna_01_02-mna020.wav|とにかく会ってみてよ絶対損はしないから
+sud/sud_vo_adv_card_mna_01_02-mna021.wav|もしかして、将来彼女に出来るかもしれないよ？
+sud/sud_vo_adv_card_mna_01_02-mna022.wav|私に似て可愛いよ？ちょっと素直じゃないけど
+sud/sud_vo_adv_card_mna_01_02-mna023.wav|私は素直に歌いたいだけなの！
+sud/sud_vo_adv_card_mna_01_02-mna024.wav|まったくもう！　君は口が減らないんだから！
+sud/sud_vo_adv_card_mna_01_02-mna025.wav|今度、話してみるから、琴乃がもしオッケーしたら会ってあげてね！
+sud/sud_vo_adv_card_mna_01_02-mna026.wav|素直じゃないな～
+sud/sud_vo_adv_card_mna_01_02-mna027.wav|あはは案外、似てるかもだね、私達
+sud/sud_vo_adv_card_mna_01_03-mna001.wav|あーあー、やっぱりまたダメか……
+sud/sud_vo_adv_card_mna_01_03-mna002.wav|今日はもしかしたらって思ってたんだけどな～……
+sud/sud_vo_adv_card_mna_01_03-mna003.wav|聞いてよ、琴乃ったら酷いんだよ今日もライブ来てくれないの
+sud/sud_vo_adv_card_mna_01_03-mna004.wav|今朝、私のマネージャーを紹介するからって言っておいたのに、「余計に嫌」って
+sud/sud_vo_adv_card_mna_01_03-mna005.wav|お姉ちゃんを芸能界に誘った悪い人となんか絶対会いたくないってメッセ来てたんだよ～
+sud/sud_vo_adv_card_mna_01_03-mna006.wav|そこは――まあ、その内に……ね？
+sud/sud_vo_adv_card_mna_01_03-mna007.wav|だって、それ言ったら、私だけが琴乃に嫌われちゃうもん。そんなの嫌だよ！
+sud/sud_vo_adv_card_mna_01_03-mna008.wav|アイドルとマネージャーは運命共同体でしょ？
+sud/sud_vo_adv_card_mna_01_03-mna009.wav|ね？　ね？ね～？？
+sud/sud_vo_adv_card_mna_01_03-mna010.wav|絶対聴かないって言い張ってる。私がテレビに映ったらすぐチャンネル変えちゃうって、お母さん言ってたし
+sud/sud_vo_adv_card_mna_01_03-mna011.wav|可愛いんだから、いつかは分かってもらいたいでも、そんなところも含めて私は琴乃が
+sud/sud_vo_adv_card_mna_01_03-mna012.wav|本当？　ありがとう！
+sud/sud_vo_adv_card_mna_01_03-mna013.wav|あはは、そうだね
+sud/sud_vo_adv_card_mna_01_03-mna014.wav|ねえ、もし、琴乃に会って好かれたら彼女にしちゃう？
+sud/sud_vo_adv_card_mna_01_03-mna015.wav|う～ん……やっぱりダーメ！私は認めないよ！
+sud/sud_vo_adv_card_mna_01_03-mna016.wav|あはは、冗談だよ。そろそろ行こう！私達の悪のステージに！
+sud/sud_vo_adv_card_mna_01_03-mna017.wav|もう、酷いな君は……じゃあ歌ってくる。ちゃんと観ててね
+sud/sud_vo_adv_card_mna_01_03-mna018.wav|うん……行ってきます！
+sud/sud_vo_adv_card_mna_01_03-mna019.wav|こんばんは！新人アイドルの長瀬麻奈です
+sud/sud_vo_adv_card_mna_01_03-mna020.wav|今日は私のライブに来てくれてありがとう！
+sud/sud_vo_adv_card_mna_01_03-mna021.wav|ここに来てくれた人達はもちろん、事情があって来られなかった人達
+sud/sud_vo_adv_card_mna_01_03-mna022.wav|そして、いつか来てほしい人にも届くように心を込めて歌います
+sud/sud_vo_adv_card_mna_01_03-mna023.wav|聴いて下さい『First
+sud/sud_vo_adv_card_mna_01_03-mna024.wav|みんな、声援ありがとね！次の曲は――
+sud/sud_vo_adv_card_mna_01_03-mna025.wav|……これからも、よろしくね私だけのマネージャー……
+sud/sud_vo_adv_group_mna_01_01-mna001.wav|お願いがあるの
+sud/sud_vo_adv_group_mna_01_01-mna002.wav|あのね――
+sud/sud_vo_adv_group_mna_01_01-mna003.wav|ねー、麻奈うーん、どうしよっか
+sud/sud_vo_adv_group_mna_01_01-mna004.wav|ね。
+sud/sud_vo_adv_group_mna_01_01-mna005.wav|君、アイドル嫌いなの？
+sud/sud_vo_adv_group_mna_01_01-mna006.wav|どう違うの？
+sud/sud_vo_adv_group_mna_01_01-mna007.wav|ふぅーん
+sud/sud_vo_adv_group_mna_01_01-mna008.wav|あっ、うん……ばいばい。
+sud/sud_vo_adv_group_mna_01_01-mna009.wav|――はぁ、カラオケもいいけど、やっぱり窮屈ここの方が思いっきり声も出るし、最高だな
+sud/sud_vo_adv_group_mna_01_01-mna010.wav|……まあ、だーれも、聴いてないけどあははっ
+sud/sud_vo_adv_group_mna_01_01-mna011.wav|あの、すみません、もしかして……
+sud/sud_vo_adv_group_mna_01_01-mna012.wav|もしかして、不審者の方ですか？
+sud/sud_vo_adv_group_mna_01_01-mna013.wav|怪しい人はみんなそう言いますよね
+sud/sud_vo_adv_group_mna_01_01-mna014.wav|用事がないなら、私、帰りますけど
+sud/sud_vo_adv_group_mna_01_01-mna015.wav|――え？
+sud/sud_vo_adv_group_mna_01_02-mna001.wav|う～ん、行こっかな……でもなー。どうしよ……
+sud/sud_vo_adv_group_mna_01_02-mna002.wav|あ、君か実は……ちょっと迷ってて。これに誘われたの
+sud/sud_vo_adv_group_mna_01_02-mna003.wav|良かったら君が行く？相手の人に連絡はしておくから
+sud/sud_vo_adv_group_mna_01_02-mna004.wav|なんで？
+sud/sud_vo_adv_group_mna_01_02-mna005.wav|……うん、そうだね
+sud/sud_vo_adv_group_mna_01_02-mna006.wav|私が行くよばいばい。また明日ね
+sud/sud_vo_adv_group_mna_01_02-mna007.wav|長瀬麻奈です、はじめましてあの……三枝さんは？
+sud/sud_vo_adv_group_mna_01_02-mna008.wav|本物のライブ……
+sud/sud_vo_adv_group_mna_01_02-mna009.wav|……そうなんですか
+sud/sud_vo_adv_group_mna_01_02-mna010.wav|――あれ？
+sud/sud_vo_adv_group_mna_01_02-mna011.wav|アイドルに興味ないって……それなのに、あんなに……
+sud/sud_vo_adv_group_mna_01_02-mna012.wav|どうして……
+sud/sud_vo_adv_group_mna_01_02-mna013.wav|どうして、あそこに立っているのは私じゃないんだろう……
+sud/sud_vo_adv_group_mna_01_02-mna014.wav|お願いがあるの
+sud/sud_vo_adv_group_mna_01_02-mna015.wav|あのね――
+sud/sud_vo_adv_group_mna_01_03-mna001.wav|はい！
+sud/sud_vo_adv_group_mna_01_03-mna002.wav|やったね、君！ううん、マネージャー
+sud/sud_vo_adv_group_mna_01_03-mna003.wav|今日から私のために馬車馬のように働いてね！
+sud/sud_vo_adv_group_mna_01_03-mna004.wav|じゃあ、行こっか、君……じゃなくて、マネージャー
+sud/sud_vo_adv_group_mna_01_03-mna005.wav|えっ？　そうですか？やった、褒められたよ！
+sud/sud_vo_adv_group_mna_01_03-mna006.wav|以前、動画で観て覚えました
+sud/sud_vo_adv_group_mna_01_03-mna007.wav|ふぃ～っ、今日も私レッスン頑張った～っ！いい汗かいた～っ！
+sud/sud_vo_adv_group_mna_01_03-mna008.wav|だけど、疲れたよ～っ！{user}く～ん！
+sud/sud_vo_adv_group_mna_01_03-mna009.wav|学生とアイドルの二重生活ってすっごく大変だよ
+sud/sud_vo_adv_group_mna_01_03-mna010.wav|よく学校に通いながらアイドルしてる子がいるけどその子達は、こんなに努力してたんだね
+sud/sud_vo_adv_group_mna_01_03-mna011.wav|え……ホント？
+sud/sud_vo_adv_group_mna_01_03-mna012.wav|ええーっ！？君、なんとかしてよ
+sud/sud_vo_adv_group_mna_01_03-mna013.wav|するよ
+sud/sud_vo_adv_group_mna_01_03-mna014.wav|当たり前私はステージで歌うためにこの世界に入ったんだよ
+sud/sud_vo_adv_group_mna_01_03-mna015.wav|睡眠時間を削ってもやり遂げてみせるから！
+sud/sud_vo_adv_group_mna_01_03-mna016.wav|すー、すー
+sud/sud_vo_adv_group_mna_01_03-mna017.wav|……？　もうスタジオ着いたの？ね。
+sud/sud_vo_adv_group_mna_01_03-mna018.wav|――へっ？　あっ、147ページね！えっと、答えは『三権分立』です！
+sud/sud_vo_adv_group_mna_01_03-mna021.wav|もう、怒られちゃったじゃない！ちゃんとフォローしてよ、マネージャー！
+sud/sud_vo_adv_group_mna_01_04-mna001.wav|……デビュー………………え？　私？
+sud/sud_vo_adv_group_mna_01_04-mna002.wav|いつ、どこで歌わせてもらえるんですか？
+sud/sud_vo_adv_group_mna_01_04-mna003.wav|うん、遙子ちゃん嬉しいよ。ありがとう
+sud/sud_vo_adv_group_mna_01_04-mna004.wav|…………どうして、分かったの？
+sud/sud_vo_adv_group_mna_01_04-mna005.wav|さすがだね、君私のこと、よく見ててくれてるんだね
+sud/sud_vo_adv_group_mna_01_04-mna006.wav|誤解しないでデビューはゴールじゃなくてスタートなの
+sud/sud_vo_adv_group_mna_01_04-mna007.wav|私も調べてみたの。今はね毎年五百組近いアイドルがデビューしてるんだって
+sud/sud_vo_adv_group_mna_01_04-mna008.wav|でも、そのほとんどがデビューしただけで、消えちゃう
+sud/sud_vo_adv_group_mna_01_04-mna009.wav|私は、沢山歌いたいデビューしてすぐ消えたくなんてない！
+sud/sud_vo_adv_group_mna_01_04-mna010.wav|うん……
+sud/sud_vo_adv_group_mna_01_04-mna011.wav|ありがとう。頼りにしてるね！
+sud/sud_vo_adv_group_mna_01_04-mna012.wav|私、長瀬麻奈のデビューライブ、来週の日曜日星見公園の野外ステージで行います！
+sud/sud_vo_adv_group_mna_01_04-mna013.wav|ビラくらいもらってくれると思ってたのにね
+sud/sud_vo_adv_group_mna_01_04-mna014.wav|うん、頑張ろう！　おーっ！
+sud/sud_vo_adv_group_mna_01_05-mna001.wav|長瀬麻奈でーす！応援よろしくお願いします！
+sud/sud_vo_adv_group_mna_01_05-mna002.wav|な、長瀬麻奈！　長瀬麻奈！長瀬麻奈のデビューライブです……！
+sud/sud_vo_adv_group_mna_01_05-mna003.wav|な、長瀬麻奈でーす……長瀬麻奈に清き一票を……
+sud/sud_vo_adv_group_mna_01_05-mna004.wav|君だって足元フラついてるじゃん……はぁ……
+sud/sud_vo_adv_group_mna_01_05-mna005.wav|そんなこと言ったって全然チラシもらってくれないもん！
+sud/sud_vo_adv_group_mna_01_05-mna006.wav|疲れるし、ヘコむよ！さっきなんて目の前で捨てられたし！
+sud/sud_vo_adv_group_mna_01_05-mna007.wav|日曜？　私と……同じ日にデビューするんだ……
+sud/sud_vo_adv_group_mna_01_05-mna008.wav|……悔しい……！！
+sud/sud_vo_adv_group_mna_01_05-mna009.wav|こんなことで、決まっちゃうなんて……！歌なら負けない、絶対負けないのに！
+sud/sud_vo_adv_group_mna_01_05-mna010.wav|えっ？　こ、ここで歌うの？　今から？衣装もオケもないんだよ？
+sud/sud_vo_adv_group_mna_01_05-mna011.wav|で、でも……
+sud/sud_vo_adv_group_mna_01_05-mna012.wav|……分かったデビュー前の路上レッスンだね。……やろう！！
+sud/sud_vo_adv_group_mna_01_05-mna013.wav|来週はもっと歌うから、絶対来てね！
+sud/sud_vo_adv_group_mna_01_05-mna014.wav|みなさん、はじめまして！　長瀬麻奈です！
+sud/sud_vo_adv_group_mna_01_05-mna015.wav|今日は私の記念すべきデビューライブ！ステージで歌う、最初の日です！
+sud/sud_vo_adv_group_mna_01_05-mna016.wav|最後まで楽しんでって下さいね！――歌います！
+sud/sud_vo_adv_group_mna_01_05-mna017.wav|みんな、大好きーーっ！
+sud/sud_vo_adv_group_mna_01_06-mna001.wav|ただいまー。あー、今日も歌った～！お腹減った～！
+sud/sud_vo_adv_group_mna_01_06-mna002.wav|うん。今日は琴乃と一緒に入ろうかな久しぶりに姉妹水入らずで！
+sud/sud_vo_adv_group_mna_01_06-mna003.wav|……やっぱり、まだ怒ってる？
+sud/sud_vo_adv_group_mna_01_06-mna004.wav|……私、ちょっと話してくる！
+sud/sud_vo_adv_group_mna_01_06-mna005.wav|琴乃、琴乃、お姉ちゃんだよ開けて
+sud/sud_vo_adv_group_mna_01_06-mna006.wav|ちょっとでいいから、お話しない？私、琴乃に聞いてほしいことがあるの
+sud/sud_vo_adv_group_mna_01_06-mna007.wav|……、琴乃に無視されるとお姉ちゃん凄く悲しいんだけど……
+sud/sud_vo_adv_group_mna_01_06-mna008.wav|……ぐすん
+sud/sud_vo_adv_group_mna_01_06-mna009.wav|やっと開けてくれた私、演技の方もなかなかでしょ？
+sud/sud_vo_adv_group_mna_01_06-mna010.wav|待って待って、騙してごめんねでも、たまにはお姉ちゃんの相手をしてくれない？
+sud/sud_vo_adv_group_mna_01_06-mna011.wav|私、琴乃と距離を取った覚えなんてないよ
+sud/sud_vo_adv_group_mna_01_06-mna012.wav|そうだね。確かに琴乃と一緒にいる時間は減っちゃったね
+sud/sud_vo_adv_group_mna_01_06-mna013.wav|うっ……。それは……ごめん……
+sud/sud_vo_adv_group_mna_01_06-mna014.wav|……ステージで歌うのが好きだから……かな？
+sud/sud_vo_adv_group_mna_01_06-mna015.wav|私と仕事どっちが大事なの？　みたいな質問だね両方とも大好きだよ
+sud/sud_vo_adv_group_mna_01_06-mna016.wav|ちょっと、押さないでよもうちょっとお姉ちゃんとお話を――
+sud/sud_vo_adv_group_mna_01_06-mna017.wav|……琴乃ごめんね、寂しい思いさせちゃって
+sud/sud_vo_adv_group_mna_01_06-mna018.wav|でも、でもね、歌って凄いんだみんなを元気に出来る力があるの
+sud/sud_vo_adv_group_mna_01_06-mna019.wav|いつか私のステージ、琴乃にも観てほしいな
+sud/sud_vo_adv_group_mna_01_06-mna021.wav|日記書いとこ……
+sud/sud_vo_adv_group_mna_01_06-mna022.wav|（今日も琴乃は私が歌うことを認めてくれなかった）
+sud/sud_vo_adv_group_mna_01_06-mna023.wav|（お客さんは一杯入ってくれている）（でも新人の私は毎日ミスの連続でヘコんじゃう）
+sud/sud_vo_adv_group_mna_01_06-mna024.wav|（彼や三枝さんはいつも笑って）（フォローしてくれるけど、悪いな……）
+sud/sud_vo_adv_group_mna_01_06-mna025.wav|（琴乃に寂しい思いをさせて、みんなに迷惑かけて……）（私、全然ダメだ……）
+sud/sud_vo_adv_group_mna_01_06-mna026.wav|（でも、私は――）
+sud/sud_vo_adv_group_mna_01_06-mna027.wav|……え？　どうして分かったの？目の下のクマとか、見えてないよね
+sud/sud_vo_adv_group_mna_01_06-mna028.wav|ふふっ、何それ……実は昨日、妹とちょっとケンカしちゃって
+sud/sud_vo_adv_group_mna_01_06-mna029.wav|ううん、それはいいの大丈夫、琴乃もいつか分かってくれるから
+sud/sud_vo_adv_group_mna_01_06-mna030.wav|あっ、はーい！　行ってくるね
+sud/sud_vo_adv_group_mna_01_06-mna031.wav|こんばんはー！　星見プロの長瀬麻奈でーす！
+sud/sud_vo_adv_group_mna_01_06-mna032.wav|えっ？
+sud/sud_vo_adv_group_mna_01_06-mna033.wav|ね！　君！しっかりして！
+sud/sud_vo_adv_group_mna_01_06-mna034.wav|……私は、大丈夫でも……かわりに……
+sud/sud_vo_adv_group_mna_01_06-mna035.wav|琴乃……
+sud/sud_vo_adv_group_mna_01_06-mna036.wav|えっ？　あっ、うん
+sud/sud_vo_adv_group_mna_01_06-mna037.wav|……私、歌ってもいいのかな……
+sud/sud_vo_adv_group_mna_01_06-mna038.wav|ごめん！なんでもないの。行ってくるね！
+sud/sud_vo_adv_group_mna_01_06-mna039.wav|はぁっ、はぁっ、ダメ……体が動かない……
+sud/sud_vo_adv_group_mna_01_06-mna040.wav|どうしよう……声が出ない歌えないよ……！
+sud/sud_vo_adv_group_mna_01_07-mna001.wav|……はぁ
+sud/sud_vo_adv_group_mna_01_07-mna002.wav|お、おはよ……どうしたの？
+sud/sud_vo_adv_group_mna_01_07-mna003.wav|え！？　う、うん……分かった
+sud/sud_vo_adv_group_mna_01_07-mna004.wav|ふふっ。そうだね、私達だけだよ告白するには絶好のタイミングだね
+sud/sud_vo_adv_group_mna_01_07-mna005.wav|ふふっ。別にそんなの気にしなくていいのに君と私の仲じゃない
+sud/sud_vo_adv_group_mna_01_07-mna006.wav|主従関係？
+sud/sud_vo_adv_group_mna_01_07-mna007.wav|あはは、ごめんごめん仕事仲間だよ。対等対等
+sud/sud_vo_adv_group_mna_01_07-mna008.wav|……うん、ごめんねみんなに迷惑かけちゃって
+sud/sud_vo_adv_group_mna_01_07-mna009.wav|……あるよ
+sud/sud_vo_adv_group_mna_01_07-mna010.wav|でも、言えない。君を巻き込んだ私が言っていいことじゃないよ
+sud/sud_vo_adv_group_mna_01_07-mna011.wav|（アイドルを続けていいのか悩んでる、なんて……）
+sud/sud_vo_adv_group_mna_01_07-mna012.wav|……ごめんね。もう少し時間がほしいの気持ちの整理がついたら、ちゃんと話すから
+sud/sud_vo_adv_group_mna_01_07-mna013.wav|……ん
+sud/sud_vo_adv_group_mna_01_07-mna014.wav|え……私、別に辛いなんて一言も……
+sud/sud_vo_adv_group_mna_01_07-mna015.wav|（……私の気持ち、琴乃には見透かされてる）（きっと、彼にも）
+sud/sud_vo_adv_group_mna_01_07-mna016.wav|（もしアイドルを辞めたら、もう琴乃に）（寂しい想いをさせないで済むのかな）
+sud/sud_vo_adv_group_mna_01_07-mna017.wav|（彼を振り回したり）（また危ない目に遭わせることも……）
+sud/sud_vo_adv_group_mna_01_07-mna018.wav|……琴乃、ごめん
+sud/sud_vo_adv_group_mna_01_07-mna019.wav|私、やっぱり辞めない辞めたくないの……
+sud/sud_vo_adv_group_mna_01_07-mna020.wav|私は、もっと沢山歌いたい私の歌を待っている人達の前で
+sud/sud_vo_adv_group_mna_01_07-mna021.wav|だから、ごめんね、琴乃
+sud/sud_vo_adv_group_mna_01_07-mna022.wav|ねえ、君私に勝ってほしい？
+sud/sud_vo_adv_group_mna_01_07-mna023.wav|ふふっ、ブレないね、じゃあ、一つお願い
+sud/sud_vo_adv_group_mna_01_07-mna024.wav|ステージに行く時、私の背中を押してほしいのバシッ！　って送り出してくれないかな
+sud/sud_vo_adv_group_mna_01_07-mna025.wav|はーいほらマネージャー、押して押して
+sud/sud_vo_adv_group_mna_01_07-mna026.wav|もっと強く！
+sud/sud_vo_adv_group_mna_01_07-mna027.wav|いったーい！酷いよ君！！
+sud/sud_vo_adv_group_mna_01_07-mna028.wav|あはは……“おまじない”だよそれじゃ、行ってきます！
+sud/sud_vo_adv_group_mna_01_07-mna029.wav|みんなーっ！　ありがとう！一杯心配させてごめんね！！
+sud/sud_vo_adv_group_mna_01_07-mna030.wav|お詫びって訳じゃないけど、みんなに約束するね私、これから先、ライブバトルに絶対に負けないから！
+sud/sud_vo_adv_group_mna_01_07-mna031.wav|（そして、自分の弱さにも……）（ありがとう。君のおかげだよ）
+sud/sud_vo_adv_group_mna_01_08-mna001.wav|私が星見まつりに参加……ですか？
+sud/sud_vo_adv_group_mna_01_08-mna002.wav|やったー！　私、一度星見まつりに出たかったんだよね屋台の客引きなら任せて！
+sud/sud_vo_adv_group_mna_01_08-mna004.wav|やったーっ！　さすが市長！分かってらっしゃるーっ！
+sud/sud_vo_adv_group_mna_01_08-mna005.wav|最近、東京での仕事が多かったから地元の人に恩返しが出来るいいチャンスだね
+sud/sud_vo_adv_group_mna_01_08-mna006.wav|何それ！私が安いから選ばれたみたいじゃない！！
+sud/sud_vo_adv_group_mna_01_08-mna007.wav|くっ、来年の星見まつりまでにトップアイドルになって見返してやるんだから……！
+sud/sud_vo_adv_group_mna_01_08-mna008.wav|ふーんだ、星見まつりでもっともっとファンを増やしちゃうからなれるもん。……ってことで出ます！
+sud/sud_vo_adv_group_mna_01_08-mna009.wav|ほらほら、三枝さんもそう言ってるし！私、なんっでも協力するから！
+sud/sud_vo_adv_group_mna_01_08-mna010.wav|すっっっごい協力するから！！
+sud/sud_vo_adv_group_mna_01_08-mna011.wav|早速、セットリスト決めよ！あっ、東京のスタジオで先生にも相談しなきゃ
+sud/sud_vo_adv_group_mna_01_08-mna012.wav|そうだ、このイベント用に新曲も作りたいな！やることいっぱいだよ！
+sud/sud_vo_adv_group_mna_01_08-mna013.wav|行こう！
+sud/sud_vo_adv_group_mna_01_08-mna014.wav|うわー、せっかくのお祭りなのに天気わるーい……これじゃあ、今年は流星群見れないね
+sud/sud_vo_adv_group_mna_01_08-mna015.wav|はーい！　……ってアイドル自ら設営するっておかしくない！？
+sud/sud_vo_adv_group_mna_01_08-mna016.wav|私、なんっでも協力するから！
+sud/sud_vo_adv_group_mna_01_08-mna017.wav|すっっっごい協力するから！！
+sud/sud_vo_adv_group_mna_01_08-mna018.wav|……って、なんでスマホに録音なんてしてるのよーっ！？
+sud/sud_vo_adv_group_mna_01_08-mna019.wav|酷いよ！　私がいつ君にパワハラしたのよ？！
+sud/sud_vo_adv_group_mna_01_08-mna020.wav|わっ、降ってきちゃった！……これじゃ、本当に星見れないね
+sud/sud_vo_adv_group_mna_01_08-mna021.wav|う、うん、ライブはどうなるの？
+sud/sud_vo_adv_group_mna_01_08-mna022.wav|みんな、こんばんはーっ！
+sud/sud_vo_adv_group_mna_01_08-mna023.wav|――さあ歌うよ、麻奈
+sud/sud_vo_adv_group_mna_01_09-mna001.wav|あーあ、なんか時間空いちゃったね
+sud/sud_vo_adv_group_mna_01_09-mna002.wav|うー、みんなはお祭り楽しんでるのに～……ね、お願いがあります！
+sud/sud_vo_adv_group_mna_01_09-mna003.wav|まだ何も言ってないのに！？
+sud/sud_vo_adv_group_mna_01_09-mna004.wav|遊びじゃないよ！私、星見まつりのためにもっと頑張りたいの
+sud/sud_vo_adv_group_mna_01_09-mna005.wav|ふふっ、それは――
+sud/sud_vo_adv_group_mna_01_09-mna006.wav|はーい、美味しい美味しいかき氷ですよ！添加物一切なしの自然な味！
+sud/sud_vo_adv_group_mna_01_09-mna007.wav|最先端化学が作り上げた究極の味ですよー！
+sud/sud_vo_adv_group_mna_01_09-mna008.wav|お面ちゃんとかぶるよもう君は心配性だな～
+sud/sud_vo_adv_group_mna_01_09-mna009.wav|ふふっ、アイドルのライブじゃなくてヒーローショーになっちゃうもんね！
+sud/sud_vo_adv_group_mna_01_09-mna010.wav|はい、ありがとうございます！イチゴ入りました！
+sud/sud_vo_adv_group_mna_01_09-mna011.wav|お待たせしました！　300円です……はい、ありがとうございましたー！
+sud/sud_vo_adv_group_mna_01_09-mna012.wav|あー、楽しい！こういうの一度やってみたかったんだ～
+sud/sud_vo_adv_group_mna_01_09-mna013.wav|――え？
+sud/sud_vo_adv_group_mna_01_09-mna014.wav|待って下さい！　私、見たんです！もう会場にお客さん一杯いました！
+sud/sud_vo_adv_group_mna_01_09-mna015.wav|雨の中、私の歌を待ってくれているんですよ！？私、歌いたいです！！
+sud/sud_vo_adv_group_mna_01_09-mna016.wav|けど……
+sud/sud_vo_adv_group_mna_01_09-mna017.wav|…………っ
+sud/sud_vo_adv_group_mna_01_09-mna018.wav|…………、三枝さん………………ごめんなさい！
+sud/sud_vo_adv_group_mna_01_09-mna019.wav|みんな、こんばんはーっ！体寒くない？　風邪引いちゃダメだよ！
+sud/sud_vo_adv_group_mna_01_09-mna020.wav|この日のための新曲もあるの！今日のために、私一生懸命書いたんだよ……！
+sud/sud_vo_adv_group_mna_01_09-mna021.wav|……私、歌ってもいい？
+sud/sud_vo_adv_group_mna_01_09-mna022.wav|――さあ歌うよ、麻奈
+sud/sud_vo_adv_group_mna_01_09-mna023.wav|あ、みんな見て！凄い星空！！
+sud/sud_vo_adv_group_mna_01_09-mna024.wav|さあみんな、最後の曲は新曲だよ！星に願いを込めて、聞いてね！　『星の海の記憶』！
+sud/sud_vo_adv_group_mna_01_09-mna025.wav|ねえ。
+sud/sud_vo_adv_group_mna_01_09-mna026.wav|――海に行こう、私も見たい流星群
+sud/sud_vo_adv_group_mna_01_10-mna001.wav|あ～あ、出席日数不足でこのままだと卒業出来ないなんて……
+sud/sud_vo_adv_group_mna_01_10-mna002.wav|ちゃんと計算してたはずなのにどうしてこんなことに……！？
+sud/sud_vo_adv_group_mna_01_10-mna003.wav|えーっ、私のせい？スケジュール管理はマネージャーの仕事でしょ
+sud/sud_vo_adv_group_mna_01_10-mna004.wav|先生、なんとかなりませんか！？私なんでもしますから！
+sud/sud_vo_adv_group_mna_01_10-mna005.wav|あっ、校長先生……はい！なんでもです！　卒業出来るならなんでもします！
+sud/sud_vo_adv_group_mna_01_10-mna006.wav|彼と一緒に！
+sud/sud_vo_adv_group_mna_01_10-mna007.wav|校長先生、ありがとうございます！
+sud/sud_vo_adv_group_mna_01_10-mna008.wav|お、お願いってなんでしょうか……？彼に一体何をやらせる気――
+sud/sud_vo_adv_group_mna_01_10-mna009.wav|校長先生のお孫さんが、私のファンだったなんてね……でも、おかげで助かっちゃった
+sud/sud_vo_adv_group_mna_01_10-mna010.wav|固いこと言わない。ファンのために歌えてしかも！　卒業まで出来ちゃうんだよ？
+sud/sud_vo_adv_group_mna_01_10-mna011.wav|そこは敏腕マネージャーがうまく説得してくれるよね信じてるから
+sud/sud_vo_adv_group_mna_01_10-mna012.wav|……頼もしくなったね
+sud/sud_vo_adv_group_mna_01_10-mna013.wav|なんでもないよ、さ、急ご！学園祭のセットリスト作らないと
+sud/sud_vo_adv_group_mna_01_10-mna014.wav|ふふっ、楽しみがまた一つ増えたよ
+sud/sud_vo_adv_group_mna_01_10-mna015.wav|去年、学園祭で歌った時より、ずっと多いよ
+sud/sud_vo_adv_group_mna_01_10-mna016.wav|これからも沢山のステージで歌うと思うけど……ここで歌うのは、これが最後かもね
+sud/sud_vo_adv_group_mna_01_10-mna017.wav|行ってくる……背中背中！
+sud/sud_vo_adv_group_mna_01_10-mna018.wav|みんな、もっと元気に！　せーの！
+sud/sud_vo_adv_group_mna_01_10-mna019.wav|次の曲、いきまーす！
+sud/sud_vo_adv_group_mna_01_10-mna020.wav|あー、やっと補習終わったよ～
+sud/sud_vo_adv_group_mna_01_10-mna021.wav|でも、もうこれで、ここに来ることもないねこれが本当の卒業式だね
+sud/sud_vo_adv_group_mna_01_10-mna022.wav|仰げばー尊しー、わが師のー恩～
+sud/sud_vo_adv_group_mna_01_10-mna023.wav|何？
+sud/sud_vo_adv_group_mna_01_10-mna024.wav|全然寂しくないよ。だって君とは今までもこれからもずっと一緒でしょ？
+sud/sud_vo_adv_group_mna_01_10-mna025.wav|君は寂しいの？
+sud/sud_vo_adv_group_mna_01_10-mna026.wav|ふふっ、それはお互い様だよ
+sud/sud_vo_adv_group_mna_01_10-mna027.wav|うん！
+sud/sud_vo_adv_group_mna_01_11-mna001.wav|やったーっ！　みんな応援ありがとう！
+sud/sud_vo_adv_group_mna_01_11-mna002.wav|あはは、ただ歌が好きなだけですよ
+sud/sud_vo_adv_group_mna_01_11-mna003.wav|これまで通りステージで歌います！ファンのみなさんのために歌うだけです！
+sud/sud_vo_adv_group_mna_01_11-mna004.wav|ありがとう……っと
+sud/sud_vo_adv_group_mna_01_11-mna005.wav|大丈夫だよ。ちょっと力が抜けちゃっただけライブが終わって緊張が緩んだから
+sud/sud_vo_adv_group_mna_01_11-mna006.wav|何深刻な顔してるの？もしかして疲れた？
+sud/sud_vo_adv_group_mna_01_11-mna007.wav|何それ。エッチな意味？
+sud/sud_vo_adv_group_mna_01_11-mna008.wav|何がそんなに凄いの？
+sud/sud_vo_adv_group_mna_01_11-mna009.wav|……デレデレしちゃって女の子なら誰でもいいんだ
+sud/sud_vo_adv_group_mna_01_11-mna010.wav|ふん、どうだか！
+sud/sud_vo_adv_group_mna_01_11-mna011.wav|いいです。私、彼がいなくても勝手に仕事取ってきて勝手に歌うから
+sud/sud_vo_adv_group_mna_01_11-mna012.wav|絶対イヤ。星見まつりの時だってみんな止めたけど大成功したじゃない
+sud/sud_vo_adv_group_mna_01_11-mna013.wav|そんなの間違ってる。ファンのみんなが待ってるなら長瀬麻奈は歌わない訳にはいかないよ
+sud/sud_vo_adv_group_mna_01_11-mna014.wav|…………レッスン行ってくる
+sud/sud_vo_adv_group_mna_01_11-mna015.wav|遙子ちゃんのマネージャーはついてこなくていいですから
+sud/sud_vo_adv_group_mna_01_11-mna016.wav|全然、連絡くれない！君、酷いんじゃない！？
+sud/sud_vo_adv_group_mna_01_11-mna017.wav|明日の現場は東京じゃなくて横浜だよ！間違って遅れないでよね！
+sud/sud_vo_adv_group_mna_01_11-mna018.wav|なんで嬉しそうなのよ……あのね。
+sud/sud_vo_adv_group_mna_01_11-mna019.wav|……やっぱりなんでもないおやすみなさい！
+sud/sud_vo_adv_group_mna_01_11-mna020.wav|……助けて。ね。助けて
+sud/sud_vo_adv_group_mna_01_12-mna001.wav|あっここだよ！
+sud/sud_vo_adv_group_mna_01_12-mna002.wav|実は、電車で居眠りしちゃって……気が付いたら東京まで行っちゃったの
+sud/sud_vo_adv_group_mna_01_12-mna003.wav|お説教は後！タクシー代、足りなくなっちゃったの！　助けて
+sud/sud_vo_adv_group_mna_01_12-mna004.wav|はぁはぁ、ごめんなさいお待たせしました！
+sud/sud_vo_adv_group_mna_01_12-mna005.wav|えっと……今日は迷惑かけてごめんなさい
+sud/sud_vo_adv_group_mna_01_12-mna006.wav|あっ、うん、これからは絶対にこんなミスしないよ
+sud/sud_vo_adv_group_mna_01_12-mna007.wav|え？　そんなことないよ君もマネージャーに復帰したし
+sud/sud_vo_adv_group_mna_01_12-mna008.wav|それは……
+sud/sud_vo_adv_group_mna_01_12-mna009.wav|私は歌ってない方が、体の調子が悪くなるの！理屈じゃないの！
+sud/sud_vo_adv_group_mna_01_12-mna010.wav|絶対に迷惑かけないようにするから、お願い……私から歌を奪わないで
+sud/sud_vo_adv_group_mna_01_12-mna011.wav|そんな顔しないでごめんね、わがまま言って……
+sud/sud_vo_adv_group_mna_01_12-mna012.wav|え？　平気だよ？今のリハだってばっちりだったでしょ？
+sud/sud_vo_adv_group_mna_01_12-mna013.wav|……ホントはちょっとだけ良くないかも？
+sud/sud_vo_adv_group_mna_01_12-mna014.wav|そんな顔しないで。大丈夫！私はステージに立てば元気になるから
+sud/sud_vo_adv_group_mna_01_12-mna015.wav|はーい！行ってくるね！
+sud/sud_vo_adv_group_mna_01_12-mna016.wav|みなさん、こんばんはーっ！今日も元気一杯に歌っちゃうよ！
+sud/sud_vo_adv_group_mna_01_12-mna017.wav|ただいまー、今日はどうだった？
+sud/sud_vo_adv_group_mna_01_12-mna018.wav|あはは、だから言ったでしょ？私はステージに上がれば元気になるって
+sud/sud_vo_adv_group_mna_01_12-mna019.wav|……あっ、あれ？　急に目眩が……君がぼやけて見えて
+sud/sud_vo_adv_group_mna_01_13-mna001.wav|断った！？　なんでそんないい話を断ったの？
+sud/sud_vo_adv_group_mna_01_13-mna002.wav|どうして、そんなことするの？私に相談もなしに！
+sud/sud_vo_adv_group_mna_01_13-mna003.wav|何、それ…………それでも、マネージャーなの！？
+sud/sud_vo_adv_group_mna_01_13-mna004.wav|こんなの明日には退院できるってお医者さんも言ってたよ！　ギリギリ間に合うでしょ？
+sud/sud_vo_adv_group_mna_01_13-mna005.wav|レイーズは大きな会場だし、あそこならもっと沢山のファンに私の歌を届け――
+sud/sud_vo_adv_group_mna_01_13-mna006.wav|えっ……{user}……くん……？
+sud/sud_vo_adv_group_mna_01_13-mna007.wav|……
+sud/sud_vo_adv_group_mna_01_13-mna008.wav|……ごめん
+sud/sud_vo_adv_group_mna_01_13-mna009.wav|私、気付かないうちに君にいろいろ背負わせてたんだね
+sud/sud_vo_adv_group_mna_01_13-mna010.wav|でもね、聞いてほしいの私、少し前、女の子からファンレターもらったんだ
+sud/sud_vo_adv_group_mna_01_13-mna011.wav|その子ね、重い病気で私のライブに来られないんだって
+sud/sud_vo_adv_group_mna_01_13-mna012.wav|だから、テレビやブルーレイを観ながら一人で私を応援してるんだって
+sud/sud_vo_adv_group_mna_01_13-mna013.wav|でも、手紙の最後にこう書いてあったの
+sud/sud_vo_adv_group_mna_01_13-mna014.wav|いつか、きっとライブに行くからって……死んじゃう前に、這ってでも行くからって
+sud/sud_vo_adv_group_mna_01_13-mna015.wav|この子だけじゃないたった一度しか来てもらえない人達が、大勢いる
+sud/sud_vo_adv_group_mna_01_13-mna016.wav|私はね、そんな人達に私の歌を届ける機会を少しでも増やしたい
+sud/sud_vo_adv_group_mna_01_13-mna017.wav|君の言うことは分かるスタッフさん達に迷惑かけたくないのは私も同じ
+sud/sud_vo_adv_group_mna_01_13-mna018.wav|でも……アイドル・長瀬麻奈は、誰かを笑顔にするため希望を与えるために存在しているの
+sud/sud_vo_adv_group_mna_01_13-mna019.wav|ライブはいつだって一期一会だからもう二度と聴いてもらえない人もいるから
+sud/sud_vo_adv_group_mna_01_13-mna020.wav|だから、止められたって、会場がなくたってどんな場所でだって私は歌うつもり
+sud/sud_vo_adv_group_mna_01_13-mna021.wav|……それがアイドル・長瀬麻奈なんだよ
+sud/sud_vo_adv_group_mna_01_13-mna022.wav|……じゃあ
+sud/sud_vo_adv_group_mna_01_13-mna023.wav|うん、分かった……ありがとう
+sud/sud_vo_adv_group_mna_01_13-mna024.wav|第十四回 NEXT VENUSグランプリ
+sud/sud_vo_adv_group_mna_01_13-mna025.wav|……私は出たいです
+sud/sud_vo_adv_group_mna_01_13-mna026.wav|ただいま、琴乃今日はね、報告があるの
+sud/sud_vo_adv_group_mna_01_13-mna027.wav|私、NEXT決勝のステージに立てれば、日本中に歌を届けられる
+sud/sud_vo_adv_group_mna_01_13-mna028.wav|今はこんな風に扉越しでしか話せない私達だけど……もし私が決勝に進んだら、聴いてほしいの
+sud/sud_vo_adv_group_mna_01_13-mna029.wav|琴乃にも、私の歌を――
+sud/sud_vo_adv_group_mna_01_13-mna030.wav|……一応、チケットの準備はするから
+sud/sud_vo_adv_group_mna_01_14-mna001.wav|ありがとうー！
+sud/sud_vo_adv_group_mna_01_14-mna002.wav|ひゃあっ！？君、なんでここに！？
+sud/sud_vo_adv_group_mna_01_14-mna003.wav|あ、あはは、そういえばそうだったねおはよう！　朝早いね
+sud/sud_vo_adv_group_mna_01_14-mna004.wav|あ、うんこれは、その……歌詞……的な……？
+sud/sud_vo_adv_group_mna_01_14-mna005.wav|うん、私、琴乃に――妹に決勝のステージを観てもらうから
+sud/sud_vo_adv_group_mna_01_14-mna006.wav|出来れば、私の想いをあの子に伝えたくて今まで思ったこと、感じたことをまとめてたんだ
+sud/sud_vo_adv_group_mna_01_14-mna007.wav|だから、日記を読み返しながら、書いてたの
+sud/sud_vo_adv_group_mna_01_14-mna008.wav|見せないよ！　絶対見せないよ！これは乙女のトップシークレットなんだから！
+sud/sud_vo_adv_group_mna_01_14-mna009.wav|そこは敏腕マネージャーのパワーでお願いします……ダメかな？
+sud/sud_vo_adv_group_mna_01_14-mna010.wav|やった！マネージャー、愛してる！
+sud/sud_vo_adv_group_mna_01_14-mna011.wav|君からの初めてのプレゼントだからね！　レアだよレア
+sud/sud_vo_adv_group_mna_01_14-mna012.wav|だって「初めての挫折を味わわせてあげる。おほほ！」なんて失礼なこと言うんだもん。頭に来ちゃって、つい
+sud/sud_vo_adv_group_mna_01_14-mna013.wav|ね、私、決勝のステージであの歌を歌う。琴乃もきっと観に来てくれる
+sud/sud_vo_adv_group_mna_01_14-mna014.wav|だから、みっともなく負ける訳にはいかないよ
+sud/sud_vo_adv_group_mna_01_14-mna015.wav|え？　どうしたの？急に褒め出して
+sud/sud_vo_adv_group_mna_01_14-mna016.wav|……私一人じゃ出来なかったよ
+sud/sud_vo_adv_group_mna_01_14-mna017.wav|デビューの時も、星見まつりの時もいつも君が、そばにいてくれた
+sud/sud_vo_adv_group_mna_01_14-mna018.wav|暴走しそうになる私を叱ったり、慰めたりしながら一生懸命守ってくれた
+sud/sud_vo_adv_group_mna_01_14-mna019.wav|アイドル長瀬麻奈は、一人だけど、一人じゃないんだ
+sud/sud_vo_adv_group_mna_01_14-mna020.wav|一人じゃないから、歌えるんだよ、私ねぇ、これからも、私のそばにいてくれる？
+sud/sud_vo_adv_group_mna_01_14-mna021.wav|…………ね？
+sud/sud_vo_adv_group_mna_01_14-mna022.wav|お願いがあるの
+sud/sud_vo_adv_group_mna_01_14-mna023.wav|みんな、こんばんはーっ！
+sud/sud_vo_adv_group_mna_01_14-mna024.wav|一人じゃないから、歌えるんだよ、私ねぇ、これからも、私のそばにいてくれる？
+sud/sud_vo_adv_group_mna_01_15-mna001.wav|ね
+sud/sud_vo_adv_group_mna_01_15-mna002.wav|こら。聞こえない？
+sud/sud_vo_adv_group_mna_01_15-mna003.wav|何、びっくりしてるの？
+sud/sud_vo_adv_group_mna_01_15-mna004.wav|……久しぶりね
+sud/sud_vo_adv_group_mna_01_15-mna005.wav|うん……ごめんね。あの日、会場に行けなくて
+sud/sud_vo_adv_group_mna_01_15-mna006.wav|あとこれ、夢じゃないから私、今、幽霊やってるんだ
+sud/sud_vo_adv_group_mna_01_15-mna007.wav|うーらーめーしーやー♪
+sud/sud_vo_adv_group_mna_01_15-mna008.wav|あっ、やっと笑ったねそうだよ元気出して、笑ってよ
+sud/sud_vo_adv_group_mna_01_15-mna009.wav|君がめそめそしてたら私、安心して成仏出来ないよ？
+sud/sud_vo_adv_group_mna_01_15-mna010.wav|そこは、うん、私もそう思うけど……そういうめぐり合わせなんだよ。しかたない
+sud/sud_vo_adv_group_mna_01_15-mna011.wav|だけど、どうしてもいくつか心残りがあってもうちょっとこっちに残ることにしたんだ
+sud/sud_vo_adv_group_mna_01_15-mna012.wav|うん。それはね――

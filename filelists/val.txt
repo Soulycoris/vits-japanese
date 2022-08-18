@@ -1,26 +1,26 @@
-sud/sud_vo_adv_card_mna_01_01-mna001|はぁ、はぁ、ま、間に合った～っ……！おはよ、はぁはぁ、はぁ、はぁ、
-sud/sud_vo_adv_card_mna_01_01-mna002|今日は油断して二度寝しちゃった～琴乃もお母さんも、起こしてくれないんだもん
-sud/sud_vo_adv_card_mna_01_01-mna003|まぁ、朝からのダッシュでいい運動にはなったけどね
-sud/sud_vo_adv_card_mna_01_01-mna004|何言ってるの、デビューしたばかりの新人アイドルが忙しいなんてありがたいことじゃん
-sud/sud_vo_adv_card_mna_01_01-mna005|もっと入れたいぐらいだよ本当はこうして授業に出る時間も惜しいくらい
-sud/sud_vo_adv_card_mna_01_01-mna006|分かってるよ、だから、頑張って両立してるんでしょ
-sud/sud_vo_adv_card_mna_01_01-mna007|私、成績は落ちてないもん……あんまり
-sud/sud_vo_adv_card_mna_01_01-mna008|そう思うなら、毎朝、車で迎えに来てくれればいいのに
-sud/sud_vo_adv_card_mna_01_01-mna009|取ればいいのに。もう取れるんでしょ？
-sud/sud_vo_adv_card_mna_01_01-mna010|君が車の運転出来たら便利だし一緒にいろんな所に行けて楽しいだろうな
-sud/sud_vo_adv_card_mna_01_01-mna011|え～？　そこは頑張ってよ。マネージャー
-sud/sud_vo_adv_card_mna_01_01-mna012|何それ。もしかしたら、いつか私のマネージャー辞めるつもり？
-sud/sud_vo_adv_card_mna_01_01-mna013|厳しい芸能界に、か弱い女の子を一人残して去っていくの？　酷いよ、君！
-sud/sud_vo_adv_card_mna_01_01-mna014|お願い、私を捨てないで！
-sud/sud_vo_adv_card_mna_01_01-mna015|君を引き留めるためなら手段は選ばないよ！
-sud/sud_vo_adv_card_mna_01_01-mna016|だって、君が辞めちゃいそうなこと言うから……
-sud/sud_vo_adv_card_mna_01_01-mna017|三枝さんに君を採用するよう私と遙子ちゃんで猛プッシュするから、大丈夫だよ！
-sud/sud_vo_adv_card_mna_01_01-mna018|あと、私はか弱いの！　もっと大事にしないと移籍しちゃうぞ
-sud/sud_vo_adv_card_mna_01_01-mna019|あ～あ、君の捕獲計画も立てないといけないのか～
-sud/sud_vo_adv_card_mna_01_01-mna020|もう、また仕事が増えちゃったよ……忘れないようメモしとこ
-sud/sud_vo_adv_card_mna_01_01-mna021|もちろん、君が私に初めてくれたプレゼントだもん。大事に使ってるよ
-sud/sud_vo_adv_card_mna_01_01-mna022|ピンクなのがいいよ。君が私のために選んでくれたんだなーって分かる
-sud/sud_vo_adv_card_mna_01_01-mna023|言わなくていいのに！知りたくなかったよ！　もう！
-sud/sud_vo_adv_card_mna_01_01-mna024|怒ってない！！
-sud/sud_vo_adv_card_mna_01_01-mna025|怒ってないし、分かってくれない君が悪いし
-sud/sud_vo_adv_card_mna_01_01-mna026|君の捕獲計画、その一強烈な弱みを握る……
+sud/sud_vo_adv_card_mna_01_01-mna001.wav|はぁ、はぁ、ま、間に合った～っ……！おはよ、はぁはぁ、はぁ、はぁ、
+sud/sud_vo_adv_card_mna_01_01-mna002.wav|今日は油断して二度寝しちゃった～琴乃もお母さんも、起こしてくれないんだもん
+sud/sud_vo_adv_card_mna_01_01-mna003.wav|まぁ、朝からのダッシュでいい運動にはなったけどね
+sud/sud_vo_adv_card_mna_01_01-mna004.wav|何言ってるの、デビューしたばかりの新人アイドルが忙しいなんてありがたいことじゃん
+sud/sud_vo_adv_card_mna_01_01-mna005.wav|もっと入れたいぐらいだよ本当はこうして授業に出る時間も惜しいくらい
+sud/sud_vo_adv_card_mna_01_01-mna006.wav|分かってるよ、だから、頑張って両立してるんでしょ
+sud/sud_vo_adv_card_mna_01_01-mna007.wav|私、成績は落ちてないもん……あんまり
+sud/sud_vo_adv_card_mna_01_01-mna008.wav|そう思うなら、毎朝、車で迎えに来てくれればいいのに
+sud/sud_vo_adv_card_mna_01_01-mna009.wav|取ればいいのに。もう取れるんでしょ？
+sud/sud_vo_adv_card_mna_01_01-mna010.wav|君が車の運転出来たら便利だし一緒にいろんな所に行けて楽しいだろうな
+sud/sud_vo_adv_card_mna_01_01-mna011.wav|え～？　そこは頑張ってよ。マネージャー
+sud/sud_vo_adv_card_mna_01_01-mna012.wav|何それ。もしかしたら、いつか私のマネージャー辞めるつもり？
+sud/sud_vo_adv_card_mna_01_01-mna013.wav|厳しい芸能界に、か弱い女の子を一人残して去っていくの？　酷いよ、君！
+sud/sud_vo_adv_card_mna_01_01-mna014.wav|お願い、私を捨てないで！
+sud/sud_vo_adv_card_mna_01_01-mna015.wav|君を引き留めるためなら手段は選ばないよ！
+sud/sud_vo_adv_card_mna_01_01-mna016.wav|だって、君が辞めちゃいそうなこと言うから……
+sud/sud_vo_adv_card_mna_01_01-mna017.wav|三枝さんに君を採用するよう私と遙子ちゃんで猛プッシュするから、大丈夫だよ！
+sud/sud_vo_adv_card_mna_01_01-mna018.wav|あと、私はか弱いの！　もっと大事にしないと移籍しちゃうぞ
+sud/sud_vo_adv_card_mna_01_01-mna019.wav|あ～あ、君の捕獲計画も立てないといけないのか～
+sud/sud_vo_adv_card_mna_01_01-mna020.wav|もう、また仕事が増えちゃったよ……忘れないようメモしとこ
+sud/sud_vo_adv_card_mna_01_01-mna021.wav|もちろん、君が私に初めてくれたプレゼントだもん。大事に使ってるよ
+sud/sud_vo_adv_card_mna_01_01-mna022.wav|ピンクなのがいいよ。君が私のために選んでくれたんだなーって分かる
+sud/sud_vo_adv_card_mna_01_01-mna023.wav|言わなくていいのに！知りたくなかったよ！　もう！
+sud/sud_vo_adv_card_mna_01_01-mna024.wav|怒ってない！！
+sud/sud_vo_adv_card_mna_01_01-mna025.wav|怒ってないし、分かってくれない君が悪いし
+sud/sud_vo_adv_card_mna_01_01-mna026.wav|君の捕獲計画、その一強烈な弱みを握る……
